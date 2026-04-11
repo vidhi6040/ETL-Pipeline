@@ -1,0 +1,92 @@
+System,YearFolder,FileName,RelativePath,SelectedSheet,ExtractedYear,ExtractedMonth,HeaderRow_1Indexed,HeaderCol_1Indexed,Extension
+,,ALPHA__Feb-2021__export (draft).xlsx,System_A/2021/ALPHA__Feb-2021__export (draft).xlsx,Extract,2021,2,11,1,.xlsx
+,,ALPHA-2021-03 raw.xlsx,System_A/2021/ALPHA-2021-03 raw.xlsx,Posting,2021,3,3,5,.xlsx
+,,ALPHA FY21 April Extract FINAL.xlsx,System_A/2021/ALPHA FY21 April Extract FINAL.xlsx,Posting,2021,4,2,1,.xlsx
+,,May_2021__ALPHA__HIST.xlsx,System_A/2021/May_2021__ALPHA__HIST.xlsx,LedgerView,2021,5,3,1,.xlsx
+,,2021_Jun_ALPHA_dump.xlsx,System_A/2021/2021_Jun_ALPHA_dump.xlsx,Posting ,2021,6,14,2,.xlsx
+,,July_2021__ALPHA__HIST.xlsx,System_A/2021/July_2021__ALPHA__HIST.xlsx,MonthlyData,2021,7,7,5,.xlsx
+,,ALPHA FY21 August Extract FINAL.xlsx,System_A/2021/ALPHA FY21 August Extract FINAL.xlsx,MAIN EXPORT ,2021,8,12,2,.xlsx
+,,ALPHA-2021-09 raw.xlsx,System_A/2021/ALPHA-2021-09 raw.xlsx,Transactions,2021,9,15,4,.xlsx
+,,2021_Oct_ALPHA_dump.xlsx,System_A/2021/2021_Oct_ALPHA_dump.xlsx,Posting,2021,10,12,3,.xlsx
+,,November_2021__ALPHA__HIST.xlsx,System_A/2021/November_2021__ALPHA__HIST.xlsx,Posting,2021,11,16,2,.xlsx
+,,ALPHA FY21 December Extract FINAL.xlsx,System_A/2021/ALPHA FY21 December Extract FINAL.xlsx,Main Export ,2021,12,8,5,.xlsx
+,,ALPHA__2022.01__REPORT.xlsx,System_A/2022/ALPHA__2022.01__REPORT.xlsx,Sheet1,2022,1,18,1,.xlsx
+,,ALPHA FY22 February Extract FINAL.xlsx,System_A/2022/ALPHA FY22 February Extract FINAL.xlsx,Posting ,2022,2,11,1,.xlsx
+,,ALPHA__2022.03__REPORT.xlsx,System_A/2022/ALPHA__2022.03__REPORT.xlsx,DATA,2022,3,4,5,.xlsx
+,,ALPHA_Extract__04_2022__v2.xlsx,System_A/2022/ALPHA_Extract__04_2022__v2.xlsx,Main ,2022,4,10,1,.xlsx
+,,ALPHA FY22 May Extract FINAL.xlsx,System_A/2022/ALPHA FY22 May Extract FINAL.xlsx,EXTRACT ,2022,5,10,4,.xlsx
+,,June_2022__ALPHA__HIST.xlsx,System_A/2022/June_2022__ALPHA__HIST.xlsx,DATA,2022,6,6,4,.xlsx
+,,2022_Jul_ALPHA_dump.xlsx,System_A/2022/2022_Jul_ALPHA_dump.xlsx,DATA,2022,7,2,5,.xlsx
+,,ALPHA__2022.08__REPORT.xlsx,System_A/2022/ALPHA__2022.08__REPORT.xlsx,Extract,2022,8,15,4,.xlsx
+,,September_2022__ALPHA__HIST.xlsx,System_A/2022/September_2022__ALPHA__HIST.xlsx,Sheet1,2022,9,11,2,.xlsx
+,,ALPHA FY22 October Extract FINAL.xlsx,System_A/2022/ALPHA FY22 October Extract FINAL.xlsx,Extract,2022,10,14,2,.xlsx
+,,ALPHA-2022-11 raw.xlsx,System_A/2022/ALPHA-2022-11 raw.xlsx,Main,2022,11,9,1,.xlsx
+,,2022_Dec_ALPHA_dump.xlsx,System_A/2022/2022_Dec_ALPHA_dump.xlsx,MAIN,2022,12,3,5,.xlsx
+,,January_2023__ALPHA__HIST.xlsx,System_A/2023/January_2023__ALPHA__HIST.xlsx,LedgerView,2023,1,10,1,.xlsx
+,,ALPHA__Feb-2023__export (draft).xlsx,System_A/2023/ALPHA__Feb-2023__export (draft).xlsx,Sheet1,2023,2,3,3,.xlsx
+,,ALPHA_Extract__03_2023__v2.xlsx,System_A/2023/ALPHA_Extract__03_2023__v2.xlsx,Extract,2023,3,11,1,.xlsx
+,,ALPHA__Apr-2023__export (draft).xlsx,System_A/2023/ALPHA__Apr-2023__export (draft).xlsx,Transactions,2023,4,17,2,.xlsx
+,,May_2023__ALPHA__HIST.xlsx,System_A/2023/May_2023__ALPHA__HIST.xlsx,Main Export,2023,5,2,1,.xlsx
+,,June_2023__ALPHA__HIST.xlsx,System_A/2023/June_2023__ALPHA__HIST.xlsx,Extract ,2023,6,16,5,.xlsx
+,,ALPHA FY23 July Extract FINAL.xlsx,System_A/2023/ALPHA FY23 July Extract FINAL.xlsx,Sheet1,2023,7,10,3,.xlsx
+,,ALPHA__Aug-2023__export (draft).xlsx,System_A/2023/ALPHA__Aug-2023__export (draft).xlsx,MAIN EXPORT,2023,8,5,4,.xlsx
+,,ALPHA FY23 September Extract FINAL.xlsx,System_A/2023/ALPHA FY23 September Extract FINAL.xlsx,Extract,2023,9,3,1,.xlsx
+,,ALPHA FY23 October Extract FINAL.xlsx,System_A/2023/ALPHA FY23 October Extract FINAL.xlsx,Sheet1,2023,10,10,6,.xlsx
+,,ALPHA_Extract__11_2023__v3.xlsx,System_A/2023/ALPHA_Extract__11_2023__v3.xlsx,Posting ,2023,11,11,6,.xlsx
+,,ALPHA-2024-01 raw.xlsx,System_A/2024/ALPHA-2024-01 raw.xlsx,LedgerView,2024,1,11,3,.xlsx
+,,February_2024__ALPHA__HIST.xlsx,System_A/2024/February_2024__ALPHA__HIST.xlsx,Extract,2024,2,14,2,.xlsx
+,,March_2024__ALPHA__HIST.xlsx,System_A/2024/March_2024__ALPHA__HIST.xlsx,EXTRACT,2024,3,15,6,.xlsx
+,,ALPHA__Apr-2024__export (draft).xlsx,System_A/2024/ALPHA__Apr-2024__export (draft).xlsx,LedgerView,2024,4,12,3,.xlsx
+,,ALPHA_Extract__05_2024__v1.xlsx,System_A/2024/ALPHA_Extract__05_2024__v1.xlsx,Extract,2024,5,14,1,.xlsx
+,,June_2024__ALPHA__HIST.xlsx,System_A/2024/June_2024__ALPHA__HIST.xlsx,LedgerView,2024,6,7,6,.xlsx
+,,ALPHA FY24 July Extract FINAL.xlsx,System_A/2024/ALPHA FY24 July Extract FINAL.xlsx,Main Export,2024,7,6,6,.xlsx
+,,ALPHA-2024-09 raw.xlsx,System_A/2024/ALPHA-2024-09 raw.xlsx,MonthlyData,2024,9,7,6,.xlsx
+,,ALPHA__2024.10__REPORT.xlsx,System_A/2024/ALPHA__2024.10__REPORT.xlsx,DATA,2024,10,11,6,.xlsx
+,,ALPHA__2024.11__REPORT.xlsx,System_A/2024/ALPHA__2024.11__REPORT.xlsx,Sheet1,2024,11,4,6,.xlsx
+,,ALPHA FY24 December Extract FINAL.xlsx,System_A/2024/ALPHA FY24 December Extract FINAL.xlsx,MonthlyData,2024,12,7,2,.xlsx
+,,BETA-2021-01 raw.xlsx,System_B/2021/BETA-2021-01 raw.xlsx,Extract,2021,1,4,1,.xlsx
+,,BETA FY21 February Extract FINAL.xlsx,System_B/2021/BETA FY21 February Extract FINAL.xlsx,BatchDetail,2021,2,15,4,.xlsx
+,,BETA__2021.03__REPORT.xlsx,System_B/2021/BETA__2021.03__REPORT.xlsx,EXTRACT,2021,3,6,6,.xlsx
+,,BETA_Extract__04_2021__v1.xlsx,System_B/2021/BETA_Extract__04_2021__v1.xlsx,Claims_Raw ,2021,4,15,5,.xlsx
+,,BETA FY21 May Extract FINAL.xlsx,System_B/2021/BETA FY21 May Extract FINAL.xlsx,Claims,2021,5,2,3,.xlsx
+,,June_2021__BETA__HIST.xlsx,System_B/2021/June_2021__BETA__HIST.xlsx,EXTRACT,2021,6,17,6,.xlsx
+,,BETA_Extract__07_2021__v2.xlsx,System_B/2021/BETA_Extract__07_2021__v2.xlsx,Sheet1 ,2021,7,12,3,.xlsx
+,,BETA__2021.08__REPORT.xlsx,System_B/2021/BETA__2021.08__REPORT.xlsx,BatchDetail,2021,8,17,6,.xlsx
+,,BETA FY21 September Extract FINAL.xlsx,System_B/2021/BETA FY21 September Extract FINAL.xlsx,Sheet1,2021,9,11,6,.xlsx
+,,2021_Oct_BETA_dump.xlsx,System_B/2021/2021_Oct_BETA_dump.xlsx,Claims_Raw,2021,10,14,2,.xlsx
+,,November_2021__BETA__HIST.xlsx,System_B/2021/November_2021__BETA__HIST.xlsx,Sheet1,2021,11,3,3,.xlsx
+,,2021_Dec_BETA_dump.xlsx,System_B/2021/2021_Dec_BETA_dump.xlsx,Sheet1,2021,12,10,6,.xlsx
+,,BETA__2022.01__REPORT.xlsx,System_B/2022/BETA__2022.01__REPORT.xlsx,Monthly Claims,2022,1,6,5,.xlsx
+,,BETA-2022-02 raw.xlsx,System_B/2022/BETA-2022-02 raw.xlsx,Extract,2022,2,4,6,.xlsx
+,,2022_Mar_BETA_dump.xlsx,System_B/2022/2022_Mar_BETA_dump.xlsx,Extract,2022,3,12,4,.xlsx
+,,BETA_Extract__04_2022__v3.xlsx,System_B/2022/BETA_Extract__04_2022__v3.xlsx,BatchDetail,2022,4,3,5,.xlsx
+,,June_2022__BETA__HIST.xlsx,System_B/2022/June_2022__BETA__HIST.xlsx,Claim Dump,2022,6,9,5,.xlsx
+,,BETA__2022.07__REPORT.xlsx,System_B/2022/BETA__2022.07__REPORT.xlsx,Claims_Raw,2022,7,8,5,.xlsx
+,,BETA FY22 August Extract FINAL.xlsx,System_B/2022/BETA FY22 August Extract FINAL.xlsx,Claims_Raw,2022,8,16,5,.xlsx
+,,2022_Sep_BETA_dump.xlsx,System_B/2022/2022_Sep_BETA_dump.xlsx,Extract,2022,9,13,6,.xlsx
+,,2022_Oct_BETA_dump.xlsx,System_B/2022/2022_Oct_BETA_dump.xlsx,Monthly Claims ,2022,10,14,5,.xlsx
+,,BETA__2022.11__REPORT.xlsx,System_B/2022/BETA__2022.11__REPORT.xlsx,Extract,2022,11,7,5,.xlsx
+,,BETA__2022.12__REPORT.xlsx,System_B/2022/BETA__2022.12__REPORT.xlsx,CLAIMS ,2022,12,13,6,.xlsx
+,,2023_Jan_BETA_dump.xlsx,System_B/2023/2023_Jan_BETA_dump.xlsx,Claims ,2023,1,5,1,.xlsx
+,,2023_Feb_BETA_dump.xlsx,System_B/2023/2023_Feb_BETA_dump.xlsx,Claim Dump,2023,2,7,3,.xlsx
+,,BETA_Extract__03_2023__v2.xlsx,System_B/2023/BETA_Extract__03_2023__v2.xlsx,ProviderView,2023,3,16,4,.xlsx
+,,BETA_Extract__04_2023__v2.xlsx,System_B/2023/BETA_Extract__04_2023__v2.xlsx,Sheet1,2023,4,5,5,.xlsx
+,,BETA FY23 May Extract FINAL.xlsx,System_B/2023/BETA FY23 May Extract FINAL.xlsx,Monthly Claims,2023,5,12,4,.xlsx
+,,BETA__2023.06__REPORT.xlsx,System_B/2023/BETA__2023.06__REPORT.xlsx,BatchDetail,2023,6,17,3,.xlsx
+,,BETA__2023.07__REPORT.xlsx,System_B/2023/BETA__2023.07__REPORT.xlsx,BATCHDETAIL ,2023,7,18,1,.xlsx
+,,BETA_Extract__08_2023__v1.xlsx,System_B/2023/BETA_Extract__08_2023__v1.xlsx,Claims,2023,8,17,1,.xlsx
+,,BETA__Sep-2023__export (draft).xlsx,System_B/2023/BETA__Sep-2023__export (draft).xlsx,ProviderView,2023,9,16,6,.xlsx
+,,BETA__Oct-2023__export (draft).xlsx,System_B/2023/BETA__Oct-2023__export (draft).xlsx,Claims_Raw,2023,10,3,5,.xlsx
+,,BETA__Nov-2023__export (draft).xlsx,System_B/2023/BETA__Nov-2023__export (draft).xlsx,EXTRACT,2023,11,6,1,.xlsx
+,,December_2023__BETA__HIST.xlsx,System_B/2023/December_2023__BETA__HIST.xlsx,Sheet1 ,2023,12,2,1,.xlsx
+,,BETA_Extract__01_2024__v2.xlsx,System_B/2024/BETA_Extract__01_2024__v2.xlsx,Extract,2024,1,12,6,.xlsx
+,,BETA FY24 March Extract FINAL.xlsx,System_B/2024/BETA FY24 March Extract FINAL.xlsx,CLAIMS,2024,3,10,5,.xlsx
+,,April_2024__BETA__HIST.xlsx,System_B/2024/April_2024__BETA__HIST.xlsx,Extract,2024,4,12,5,.xlsx
+,,BETA-2024-05 raw.xlsx,System_B/2024/BETA-2024-05 raw.xlsx,Sheet1 ,2024,5,10,6,.xlsx
+,,BETA-2024-06 raw.xlsx,System_B/2024/BETA-2024-06 raw.xlsx,ProviderView ,2024,6,9,4,.xlsx
+,,2024_Jul_BETA_dump.xlsx,System_B/2024/2024_Jul_BETA_dump.xlsx,Claims,2024,7,8,4,.xlsx
+,,BETA FY24 August Extract FINAL.xlsx,System_B/2024/BETA FY24 August Extract FINAL.xlsx,BatchDetail,2024,8,3,5,.xlsx
+,,BETA__Sep-2024__export (draft).xlsx,System_B/2024/BETA__Sep-2024__export (draft).xlsx,Claims ,2024,9,12,4,.xlsx
+,,BETA FY24 October Extract FINAL.xlsx,System_B/2024/BETA FY24 October Extract FINAL.xlsx,CLAIMS_RAW,2024,10,11,5,.xlsx
+,,BETA_Extract__11_2024__v2.xlsx,System_B/2024/BETA_Extract__11_2024__v2.xlsx,ProviderView ,2024,11,16,6,.xlsx
+,,December_2024__BETA__HIST.xlsx,System_B/2024/December_2024__BETA__HIST.xlsx,BatchDetail ,2024,12,7,2,.xlsx
