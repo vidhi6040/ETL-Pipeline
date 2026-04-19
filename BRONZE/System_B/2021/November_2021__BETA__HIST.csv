@@ -1,0 +1,223 @@
+﻿memberid, date_of_claim  ,ClaimValue,CLAIMVALUE,service provider,approved,loadbatch,Internal Comment,Internal Comment,UNUSED,year_added_2021,new_col_202111,Loss Date,mystery_2021_11_42,mystery_2021_11_24,mystery_2021_11_99
+M43290,2021-11-14,12891.518095750327,13065.13,Mediclinic,Mediclinic,B102,,,,,,Nov-14-21,,1,
+M78585,13 November 2021,19409.905457137527,19604.97,Mediclinic,Mediclinic,,مرفوض,مرفوض,,Y21,INC-3740,2021-11-13,1,,1
+,15/11/2021,"9,187.37",9139.699918644603,SEHA ,SEHA,,ok,ok,,,INC-7362,15/11/2021,1,,
+M35016,08/11/2021,"46,312.47","46,322.62",SEHA,SEHA,,ok,ok,,,HIGH,Nov-08-21,x,,
+M17321,16/11/2021,30817.99905249865,30995.14,Mediclinic,Mediclinic,,ok,,,,INC-1937,2021-11-16,1,,
+M91703,Nov-26-21,7771.47,,,,B063,ok,ok,,,INC-1042,2021-11-26,1,,
+m-34477,Nov-25-21,"47,716.21",47716.21,,,B059,duplicate,duplicate,x,,MED,2021-11-25,,,
+M80121,10 November 2021,28753.66,,NMC,NMC ,B046,,,,Y21,INC-9194,2021-11-10 00:00:00,,,x
+M45971,32/13/2023,,9513.74,Mediclinic,Mediclinic,,duplicate,duplicate,,,INC-9673,2021-11-08 00:00:00,,,1
+M70402,Nov-09-21,"40,290.89",,Mediclinic,Mediclinic,B004,duplicate,duplicate,1,Y21,LOW,09 November 2021,,,
+m-13906,2021-11-06,21833.39,21813.96640793479,SEHA,SEHA,B062,,,,,INC-1180,2021-11-06 00:00:00,,,x
+m-62330,,,"14,737.69",NMC,NMC,,missing doc,,1,Y21,MED,2021-11-15 00:00:00,,,
+M46611,Nov-05-21,21194.91,21194.91,Mediclinic,Mediclinic,,duplicate,duplicate,,Y21,,2021-11-05,,,
+M63417,2021-11-16,"41,573.62",41754.9,Aster,Aster,,ok,ok,,IN,,2021-11-16,,,
+M96369,12 November 2021,22410.43,22410.43,Burjeel,Burjeel,B023,ok,ok,,Y21,INC-9039,12 November 2021,,,1
+M18850,2021-11-04,,32876.69161838753,Mediclinic,Mediclinic,B107,ok,ok,,Y21,,2021-11-04,1,x,
+M18392,2021-11-28 00:00:00,43468.51,not available,Aster,Aster,B056,ok,ok,,IN,INC-3874,Nov-28-21,1,,
+M76787,Nov-13-21,16587.46,"16,704.37",Cleveland Clinic,Cleveland Clinic,B063,مرفوض,مرفوض,,Y21,,2021-11-13 00:00:00,,,
+M75988,20/11/2021,46868.27,46989.85480250846,Burjeel,Burjeel,B105,missing doc,,x,Y21,INC-1873,32/13/2023,1,,
+M99018,2021-11-13,47561.01,47561.01,Mediclinic,Mediclinic,B074,ok,ok,,,,Nov-13-21,,,1
+M65465,32/13/2023,33699.7924604033,33649.77053134468,,,B030,duplicate,duplicate,,IN,INC-1021,32/13/2023,1,1,1
+M64356,Nov-07-21,24941.158464814147,(24875.56),Mediclinic,Mediclinic,,missing doc,missing doc,,,INC-4007,07/11/2021,,,
+M81745,2021-11-23,"2,305.47",,SEHA,SEHA,B117,ok,ok,,Y21,MED,23/11/2021,,1,
+M58091,Nov-13-21,49784.41,"49,784.41",Cleveland Clinic,Cleveland Clinic,B058,ok,ok,1,Y21,INC-8535,2021-11-13,x,,
+M19092,19/11/2021,174.37,174.37,,,B098,,missing doc,,Y21,INC-2602,2021-11-19,,,
+M73828,2021-11-09,27956.7,27956.7,SEHA,SEHA,B013,missing doc,missing doc,,Y21,MED,2021-11-09,,,x
+M99825,2021-11-23 00:00:00,49682.17,not available,,,B004,duplicate,duplicate,x,,INC-3279,Nov-23-21,1,x,1
+M26845,2021-11-28 00:00:00,33146.0837847899,33022.9,Aster,Aster,,duplicate,duplicate,,,,2021-11-28 00:00:00,,,
+M69741,2021-11-28,,12872.86218738972,Mediclinic,Mediclinic,B067,duplicate,duplicate,,,HIGH,28 November 2021,,,
+M37595,04 November 2021,,14689.61945427857,NMC,NMC,B002,,مرفوض,1,Y21,INC-9981,04/11/2021,1,1,
+M96416,15 November 2021,,,Mediclinic,Mediclinic,B013,missing doc,missing doc,,IN,,15/11/2021,x,,
+M89974,01/11/2021,(11254.26),11472.081527846938,,,,مرفوض,مرفوض,,Y21,,32/13/2023,,,1
+M20821,Nov-08-21,28365.67,(28365.67),Mediclinic,Mediclinic,B072,ok,ok,x,IN,INC-2041,,,,x
+m-15273,32/13/2023,,not available,Mediclinic,Mediclinic,B083,ok,ok,,Y21,,Nov-10-21,,x,
+m-9175,2021-11-25,9824.46,9824.46,Aster,Aster,B024,ok,ok,,Y21,INC-9792,2021-11-25,,,
+M91582,2021-11-22 00:00:00,27436.34,27436.34,SEHA,SEHA,B081,مرفوض,مرفوض,,Y21,LOW,2021-11-22,1,x,
+M51637,Nov-11-21,42986.14850612431,43009.92,Mediclinic,Mediclinic,B033,ok,,,Y21,,32/13/2023,,,
+M81510,0000-00-00,1318.98,1259.518997753319,NMC,NMC,B007,ok,ok,1,,LOW,14 November 2021,,,x
+M82628,2021-11-02,21527.30300207645,21501.560621045504,,,B102,,مرفوض,,,INC-9490,02/11/2021,x,1,
+M44963,2021-11-03,not available,32232.35,SEHA,SEHA,B087,ok,ok,,Y21,INC-3914,Nov-03-21,,,
+M51289,2021-11-11,,35380,SEHA,SEHA,B029,duplicate,duplicate,,Y21,INC-7571,Nov-11-21,,,
+M61497,11 November 2021,43186.11,43196.90794293139,SEHA,SEHA,,missing doc,missing doc,,IN,INC-5805,32/13/2023,1,1,1
+M78602,32/13/2023,31845.09338991793,31768.48,,,B115,missing doc,missing doc,,Y21,HIGH,28 November 2021,,,
+M82466,32/13/2023,"46,005.70",46153.41185434088,SEHA,SEHA,B023,missing doc,missing doc,,Y21,,24 November 2021,1,,
+M47261,17 November 2021,16684.19,16684.19,NMC,NMC,,,,x,IN,INC-9290,17/11/2021,,1,
+m-70556,19/11/2021,(41547.78),41411.0166366723,Cleveland Clinic,Cleveland Clinic,B074,missing doc,,,IN,,19/11/2021,,,
+M88191,32/13/2023,not available,11503.09,Mediclinic,Mediclinic,B041,ok,,,,,2021-11-14,,x,x
+M24647,Nov-03-21,,37293.33,,,B087,,ok,x,IN,,2021-11-03,,,1
+M76951,32/13/2023,39086.47533806435,"39,098.60",Aster,Aster,B061,missing doc,missing doc,,Y21,INC-2937,18/11/2021,1,,
+M55712,2021-11-04,"4,172.16",4172.16,SEHA,SEHA,B056,duplicate,duplicate,,IN,HIGH,2021-11-04,,x,
+M31168,Nov-17-21,44179.73,44179.73,SEHA,SEHA,B075,missing doc,missing doc,1,,,2021-11-17,,x,
+M27042,2021-11-14,(337.66),,Mediclinic,Mediclinic,B038,,duplicate,1,Y21,,2021-11-14,,,1
+M57718,01 November 2021,not available,31892.43176072308,Aster,Aster,B114,duplicate,,,IN,MED,01 November 2021,1,1,
+M11040,10 November 2021,7494.16,7491.984101616368,Mediclinic,Mediclinic,,ok,ok,,Y21,INC-6675,Nov-10-21,1,,
+M75478,2021-11-01,,17794.32,,,B092,duplicate,duplicate,,IN,INC-2761,01/11/2021,,,
+M61214,Nov-14-21,8472.74,8472.74,NMC,NMC,B103,مرفوض,مرفوض,,Y21,INC-5714,14/11/2021,,,
+,Nov-20-21,not available,41650.03,,,B075,مرفوض,,,,MED,2021-11-20 00:00:00,,,
+M93888,16/11/2021,48707.72,"48,707.72",Burjeel,Burjeel,B018,,,,,,32/13/2023,,1,
+M13661,2021-11-26 00:00:00,28882.69,(28882.69),Aster,Aster,,missing doc,missing doc,1,IN,INC-6667,2021-11-26,1,1,
+M96549,01 November 2021,42854.96,(42854.96),NMC,NMC,B029,,,1,,HIGH,32/13/2023,,x,
+M70279,16/11/2021,,2095.961386763334,,,B035,duplicate,,,,,32/13/2023,x,,
+M53384,Nov-01-21,22487.09,22445.45937639817,Cleveland Clinic,Cleveland Clinic,B099,ok,ok,x,Y21,INC-5966,2021-11-01,,,
+M26903,01/11/2021,26792.09,"26,792.09",Cleveland Clinic,Cleveland Clinic,,ok,ok,,,,2021-11-01,,,x
+M70835,2021-11-11,43541.98541149393,43716.89,NMC,NMC,B103,,ok,1,IN,INC-3258,2021-11-11 00:00:00,1,,x
+M60220,2021-11-05,"14,017.57",,, ,B047,duplicate,duplicate,,Y21,,05/11/2021,,1,x
+m-47021,2021-11-07,"36,273.95",36310.07,Aster,Aster,B029,ok,,1,Y21,INC-5692,2021-11-07 00:00:00,,1,
+M77740,Nov-13-21,34397.31,34397.31,,,B063,ok,ok,x,IN,INC-9380,2021-11-13 00:00:00,,,
+m-88453,Nov-28-21,48784.35,48784.35,Burjeel,Burjeel,B093,duplicate,duplicate,,Y21,,2021-11-28,,,
+M70215,Nov-06-21,not available,40807.98,Burjeel,Burjeel,B042,,,,Y21,,06/11/2021,x,1,
+M22067,02/11/2021,31095.41227196566,30987.14,Aster,Aster,B039,ok,ok,,Y21,LOW,Nov-02-21,1,,
+m-51602,2021-11-04 00:00:00,18307.57,18307.57,,,,,,x,Y21,INC-4360,2021-11-04,,,
+M56680,2021-11-25,12925.52,12925.52,Cleveland Clinic,Cleveland Clinic,B112,,,x,IN,,32/13/2023,,,
+M57641,2021-11-13,"8,219.41",,Cleveland Clinic,Cleveland Clinic,B043,مرفوض,مرفوض,1,Y21,,2021-11-13,,1,
+M32297,2021-11-12 00:00:00,(26314.35),26170.73,Mediclinic,Mediclinic,B051,missing doc,missing doc,,IN,MED,2021-11-12,,,
+m-84760,32/13/2023,1039.471386313029,971.5719462039535,,,B089,duplicate,duplicate,,Y21,INC-4355,24 November 2021,,,
+M48416,Nov-01-21,19679.51,19679.51,SEHA,SEHA,B048,ok,ok,1,IN,INC-3857,Nov-01-21,,,
+M91455,10/11/2021,"45,562.87","45,562.87",,,B066,ok,ok,,Y21,INC-8281,,,x,
+M97128,02 November 2021,22527.580053775404,22560.23,Burjeel,Burjeel,B043,,,,,INC-7896,2021-11-02,,1,
+M95018,11/11/2021,,,Mediclinic,Mediclinic,B031,ok,ok,1,,INC-8651,2021-11-11,,,
+m-25321,2021-11-26,40701.99966459316,, ,,B070,,ok,1,IN,INC-2345,2021-11-26,,,1
+M62861,Nov-04-21,"38,045.15",(38045.15),,,B098,missing doc,,,Y21,,2021-11-04 00:00:00,,,
+M77534,27/11/2021,,26420.57,,,B022,,,,,LOW,Nov-27-21,,,
+M67051,32/13/2023,,48729,Cleveland Clinic,Cleveland Clinic,B116,,missing doc,,Y21,,2021-11-18 00:00:00,,,
+M32379,Nov-26-21,7152.58,not available,Burjeel,Burjeel,B102,,missing doc,,Y21,INC-3430,26/11/2021,1,,
+m-68910,26/11/2021,"2,830.94",2830.94,Burjeel,Burjeel,B022,ok,,,Y21,INC-9489,26 November 2021,,,
+M94404,09 November 2021,22235.6,22235.6,Mediclinic,Mediclinic,B039,مرفوض,مرفوض,x,Y21,INC-3443,2021-11-09,,1,1
+M56439,2021-11-15,46108.09,46108.09,, ,B027,missing doc,,,,INC-1913,Nov-15-21,,,
+M89010,15/11/2021,14352.31,14498.20456343524,Burjeel,Burjeel,B041,,,1,Y21,HIGH,15/11/2021,,,1
+M28346,32/13/2023,32103.83339948622,32036.87,Aster,Aster,B110,missing doc,missing doc,x,,INC-8539,2021-11-21 00:00:00,1,,
+M39178,18/11/2021,(49932.10),49759.95331704155,Aster,Aster,B053,,,,IN,HIGH,,,1,1
+m-16474,Nov-27-21,11068.47,,SEHA,SEHA,B002,ok,,,Y21,,2021-11-27,,,
+M91664,21 November 2021,,45190.82,,,B117,,,,Y21,INC-9091,2021-11-21 00:00:00,1,,x
+M97396,,"35,156.78",35414.961448475064,Cleveland Clinic,Cleveland Clinic,,,,,Y21,,Nov-24-21,,,1
+M10376,07/11/2021,15595.83,15610.60249606472, ,,B007,,,,Y21,,07/11/2021,,,
+M73878,,25031.591359674392,25003.34,,,,missing doc,missing doc,,IN,INC-8599,Nov-18-21,1,,1
+m-43815,Nov-20-21,,,, ,B042,,,,Y21,MED,20/11/2021,1,x,
+M10980,27 November 2021,16955.23,,,,,,,,Y21,HIGH,27 November 2021,,,1
+M37915,2021-11-21,"27,244.85","27,243.84",SEHA,SEHA,,missing doc,missing doc,,Y21,INC-4060,21 November 2021,,1,
+M95872,2021-11-09,6970.72,6970.72,Burjeel,Burjeel,B120,missing doc,missing doc,,,,32/13/2023,,,
+M94455,2021-11-27,,13718.7157000167,NMC,NMC,B059,,,,,INC-6237,Nov-27-21,1,,
+M44250,Nov-02-21,36162.24,36162.24,Mediclinic,Mediclinic,B057,missing doc,missing doc,,Y21,,2021-11-02 00:00:00,,,
+M85934,2021-11-02,37077.39,37077.39,,,B041,missing doc,missing doc,,IN,INC-5485,Nov-02-21,,,1
+m-43709,2021-11-16 00:00:00,"27,490.60",27566.812604890674,Aster,Aster,,,,,,,Nov-16-21,1,,x
+M45168,2021-11-16,8849.48,"8,678.76",Burjeel ,Burjeel,B043,ok,ok,,Y21,INC-5459,16 November 2021,,,
+M54139,Nov-14-21,13781.27,13781.27,SEHA,SEHA,B003,duplicate,duplicate,,IN,,2021-11-14,,x,1
+,Nov-01-21,6523.27,,Cleveland Clinic,Cleveland Clinic ,B084,ok,ok,,Y21,LOW,2021-11-01,x,,
+m-96776,32/13/2023,47326.06,,SEHA,SEHA,B111,ok,ok,,Y21,,2021-11-15 00:00:00,,,
+M40227,17/11/2021,22715.51043115985,22655.32,Mediclinic,Mediclinic,B099,ok,ok,,Y21,,2021-11-17,,,
+M34268,26 November 2021,,not available,Aster,Aster ,B111,duplicate,duplicate,,Y21,LOW,2021-11-26,,x,
+M28646,07/11/2021,(43833.04),"43,833.04",Cleveland Clinic,Cleveland Clinic,B042,missing doc,missing doc,,Y21,MED,2021-11-07,,,
+,,,,,,,,,,,,,,,
+memberid, date_of_claim  ,ClaimValue,CLAIMVALUE,service provider,approved,loadbatch,Internal Comment,Internal Comment,UNUSED,year_added_2021,new_col_202111,Loss Date,mystery_2021_11_42,mystery_2021_11_24,mystery_2021_11_99
+M31738,2021-11-06,,,Cleveland Clinic,Cleveland Clinic,B052,missing doc,missing doc,1,Y21,INC-4290,2021-11-06 00:00:00,1,,
+,2021-11-06,8023.312424696608,8129.62,Mediclinic,Mediclinic ,B042,duplicate,duplicate,x,,,06/11/2021,,,
+M76803,Nov-05-21,29790.73,29790.73,Cleveland Clinic,Cleveland Clinic,B097,,,,,,05/11/2021,,1,
+M56693,24/11/2021,(10192.02),10192.02,Burjeel,Burjeel,,,ok,x,Y21,MED,2021-11-24,1,,x
+M47329,32/13/2023,34425.38509168765,34511.16,Burjeel ,Burjeel,B111,duplicate,duplicate,,IN,,2021-11-21,,,1
+M65521,Nov-27-21,,25248.223021033456,SEHA,SEHA,B049,missing doc,missing doc,,IN,LOW,2021-11-27,1,,
+m-95225,13/11/2021,"48,692.82",48692.82,NMC,NMC,B060,,,1,Y21,LOW,2021-11-13,,,
+M16721,,33885.77,33885.77,SEHA,SEHA,B002,ok,ok,1,,INC-2374,2021-11-21,,,
+M29823,27/11/2021,(38707.72),38819.403215713,SEHA,SEHA,B086,ok,,,,,32/13/2023,1,,
+M74726,2021-11-12 00:00:00,"26,577.49",26577.49,Aster,Aster,B114,duplicate,duplicate,,IN,MED,2021-11-12,,,
+M67282,15/11/2021,28397.5,,Cleveland Clinic ,Cleveland Clinic,,ok,ok,,Y21,MED,2021-11-15,,,
+M75603,2021-11-15 00:00:00,(13418.66),13418.66,SEHA,SEHA,B107,ok,ok,1,IN,INC-1986,15/11/2021,,,
+M19983,2021-11-15,18739.17,18739.17,NMC,NMC,,ok,,x,IN,,15 November 2021,,1,
+M18920,06/11/2021,9843.022466209944,9944.79,Burjeel,Burjeel,B082,ok,ok,1,,INC-7058,06/11/2021,,,
+M97541,26 November 2021,31556.27,31556.27,Cleveland Clinic,Cleveland Clinic,,,,,,INC-9406,26 November 2021,,,
+M88653,10/11/2021,(24192.57),24192.57,Cleveland Clinic,Cleveland Clinic,B085,??,,1,Y21,INC-6265,2021-11-10,,,x
+M54180,19 November 2021,(10284.27),10058.869673544968,Burjeel,Burjeel,B041,duplicate,duplicate,,Y21,,2021-11-19,,,1
+M27103,09/11/2021,7586.21,7586.21,Cleveland Clinic,Cleveland Clinic,B066,ok,ok,,Y21,INC-5599,Nov-09-21,1,,1
+M34222,Nov-18-21,,31365.26290895622,NMC,NMC,B040,,??,,IN,MED,0000-00-00,,x,1
+M46932,2021-11-06,29635.277364369944,"29,475.09",Mediclinic,Mediclinic,B079,missing doc,missing doc,,Y21,MED,Nov-06-21,,,
+M91360,2021-11-26 00:00:00,,44603.3941685868,Burjeel,Burjeel,B036,,,,,,0000-00-00,x,,
+M78254,2021-11-20,48058.72,48058.72,Burjeel,Burjeel,,مرفوض,مرفوض,1,IN,INC-1324,20/11/2021,,,
+M37270,2021-11-28,not available,44641.69,Cleveland Clinic,Cleveland Clinic,B107,duplicate,duplicate,x,Y21,,28 November 2021,,,
+M20361,Nov-18-21,(20558.75),(20702.98),Aster,Aster,,missing doc,missing doc,,IN,,2021-11-18,,,
+M49994,2021-11-08,(48664.64),48664.64,Cleveland Clinic,Cleveland Clinic,,,missing doc,,,,Nov-08-21,1,1,
+m-61893,22/11/2021,26088.08,26088.08,Burjeel,Burjeel,,ok,ok,,,,,,,
+M94696,,34042.296763766375,,Mediclinic,Mediclinic,B049,ok,ok,,Y21,,02 November 2021,,,
+M81437,11/11/2021,39376.71,39420.77915327404,SEHA,SEHA,,missing doc,missing doc,x,IN,INC-8290,Nov-11-21,x,,
+M32294,14/11/2021,"31,717.84",31727.65167569892,Mediclinic,Mediclinic,B009,ok,ok,,,,2021-11-14,,x,
+M57412,2021-11-16 00:00:00,"25,602.21",,Cleveland Clinic,Cleveland Clinic,B104,مرفوض,مرفوض,1,,,Nov-16-21,1,x,
+m-94156,32/13/2023,"1,342.14",1482.198850326525,Aster ,Aster,,missing doc,missing doc,1,Y21,,2021-11-13,,,
+M26608,2021-11-13,23995.51,23817.809798344835,Aster,Aster,,,ok,,,,13 November 2021,1,,
+M92241,2021-11-01,"39,342.92",39342.92,Cleveland Clinic,Cleveland Clinic,B021,duplicate,duplicate,,Y21,INC-8521,01/11/2021,1,1,
+M72710,,12423.91,12423.91,Aster,Aster,B085,duplicate,duplicate,,IN,INC-3438,32/13/2023,1,,
+M36213,32/13/2023,(6104.25),6104.25,Burjeel,Burjeel,B027,??,??,,Y21,LOW,2021-11-13 00:00:00,,,
+M52092,10 November 2021,48472.566719770344,,Mediclinic,Mediclinic,B076,,,,Y21,,10 November 2021,,,1
+M47825,2021-11-04,"9,590.17",9650.243938071457,Aster,Aster,B106,ok,ok,,Y21,INC-4432,04 November 2021,x,,
+M88180,21 November 2021,29066.6440581166,29075.25,SEHA,SEHA,B023,ok,ok,,,INC-3994,21/11/2021,,x,
+M64149,2021-11-17,25518.53,25518.53,NMC,NMC,B086,duplicate,duplicate,,,,32/13/2023,1,,
+M96269,2021-11-15,(14011.14),14011.14,,,B088,missing doc,missing doc,,Y21,,32/13/2023,,,
+M55310,2021-11-17,27871.81,27871.81,NMC,NMC,B015,,ok,,Y21,INC-9745,17 November 2021,,,x
+M24804,32/13/2023,4344.4,(4344.40),,,,,,1,IN,,2021-11-13 00:00:00,,,
+M87275,Nov-02-21,44574.176740704876,"44,503.55",,,B066,ok,ok,1,Y21,,2021-11-02,,x,1
+M88369,22/11/2021,11426.12899146677,,SEHA,SEHA,B014,ok,ok,,IN,,2021-11-22 00:00:00,,,
+M49060,2021-11-22,39148.12,39148.12,Mediclinic,Mediclinic,B109,مرفوض,,,IN,MED,22/11/2021,1,,
+M65194,32/13/2023,(41695.00),,Burjeel,Burjeel,,,ok,,IN,,21/11/2021,,,x
+M63815,Nov-25-21,142.61,142.61,Burjeel,Burjeel,B081,ok,ok,,IN,,2021-11-25,,,1
+M51282,Nov-05-21,30862.52,30834.47110625971,Cleveland Clinic,Cleveland Clinic,B119,duplicate,duplicate,1,Y21,INC-4008,05/11/2021,,1,
+M17171,05 November 2021,16765.56321159907,16954.6,Burjeel,Burjeel,B047,ok,ok,,IN,INC-1692,2021-11-05,,1,1
+M74455,02/11/2021,,"33,603.97",Cleveland Clinic,Cleveland Clinic,B079,duplicate,duplicate,x,IN,HIGH,2021-11-02,,,
+M66007,17/11/2021,38795.83,38795.83,,,B115,,??,,Y21,MED,2021-11-17 00:00:00,,,
+M38475,27/11/2021,32719.94,32719.94,NMC,NMC,B010,ok,ok,1,Y21,INC-9604,2021-11-27 00:00:00,,,
+M70806,09/11/2021,not available,39078.07,NMC,NMC,,ok,ok,,,,Nov-09-21,,,
+M11931,Nov-10-21,43293.23,43293.23,,,,,,,Y21,INC-6687,2021-11-10 00:00:00,x,,
+m-64275,2021-11-18 00:00:00,not available,,SEHA,SEHA,B025,ok,ok,,,HIGH,18 November 2021,,,
+M63032,14/11/2021,26858.48,26858.48,NMC,NMC,B114,ok,ok,,Y21,INC-3109,14 November 2021,,1,
+M56234,2021-11-15 00:00:00,(40756.77),40681.97,Aster,Aster,,,,1,Y21,,15 November 2021,,x,1
+M17451,2021-11-02,29396.53843143197,,SEHA,SEHA ,,missing doc,missing doc,1,Y21,INC-5349,2021-11-02 00:00:00,,,
+M64237,2021-11-03 00:00:00,33951.91,"33,951.91",Mediclinic ,Mediclinic,B019,,missing doc,,Y21,INC-6768,Nov-03-21,,1,
+M17758,11 November 2021,29274.14,29274.14,SEHA,SEHA,B080,missing doc,missing doc,x,IN,INC-7859,2021-11-11 00:00:00,,,x
+M83738,32/13/2023,(28802.97),28776.77,Burjeel,Burjeel,,ok,ok,,Y21,,Nov-23-21,,,
+M47498,2021-11-06,"20,178.13",20178.13,NMC,NMC,B083,,,,,,,,,
+M75897,26 November 2021,,37699.76,Mediclinic,Mediclinic,B043,,,,Y21,INC-6627,2021-11-26,,,
+M99663,16/11/2021,22630.5,,,,B117,??,??,,,HIGH,16/11/2021,,x,
+M77032,12/11/2021,,,NMC,NMC,B022,,,1,IN,INC-1461,0000-00-00,,,x
+M47777,10/11/2021,40719.53,40719.53,NMC,NMC,B002,مرفوض,مرفوض,,Y21,INC-4787,32/13/2023,1,,1
+M49467,2021-11-11,,37178.09,,,,missing doc,missing doc,,Y21,MED,2021-11-11,,,
+M38591,2021-11-12 00:00:00,not available,16351.01,Aster,Aster,,ok,ok,,,,12 November 2021,1,,
+M63819,2021-11-23,39747.31,"39,747.31",Aster ,Aster,B062,duplicate,duplicate,,,INC-3498,2021-11-23,1,x,
+M50932,2021-11-22,44121.59,44121.59,Aster,Aster,,,,x,Y21,,,,1,
+M71461,2021-11-22,"32,894.92",32894.92,SEHA,SEHA,B104,مرفوض,مرفوض,,Y21,,22/11/2021,,x,
+M79007,28 November 2021,"17,245.26",17372.9,Burjeel,Burjeel,B063,,,,Y21,INC-3968,2021-11-28,1,,
+M83680,09/11/2021,48297.53,48297.53,Aster,Aster,B006,duplicate,duplicate,x,Y21,INC-9246,2021-11-09,,,
+M95866,Nov-28-21,48114.81,not available,Burjeel,Burjeel,B111,ok,ok,,IN,INC-3527,0000-00-00,,x,
+m-88966,2021-11-21 00:00:00,24933.52,,Cleveland Clinic,Cleveland Clinic,B052,??,??,1,Y21,MED,21 November 2021,1,,
+M98969,32/13/2023,39419.063835722154,39615.66,Cleveland Clinic,Cleveland Clinic,B109,missing doc,missing doc,,,INC-7318,26/11/2021,,,
+M32728,06 November 2021,,48458.09823810076,Burjeel,Burjeel,B048,ok,,,,,2021-11-06,,,
+M42384,2021-11-22 00:00:00,,14916.75,Burjeel,Burjeel,B062,مرفوض,مرفوض,,Y21,,22/11/2021,,x,
+M77886,Nov-09-21,(21141.92),21141.92,Aster,Aster,B041,??,??,,,,09/11/2021,x,,
+M79220,,"29,444.27",29384.89338052241,SEHA,SEHA,,missing doc,missing doc,,Y21,HIGH,,,,
+M66974,Nov-25-21,26468.24474608484,26586.72,NMC,NMC,,ok,ok,,Y21,INC-1431,32/13/2023,,,1
+M71328,Nov-25-21,38605.45,"38,683.34",Cleveland Clinic ,Cleveland Clinic,,,,x,,INC-2336,2021-11-25,,,
+M79938,2021-11-18,"3,028.94",(3028.94),Burjeel,Burjeel,B005,missing doc,missing doc,,Y21,,2021-11-18,1,,x
+M28323,,"37,794.83",37794.83,Burjeel,Burjeel,B066,,,1,Y21,INC-8235,06 November 2021,1,1,1
+M88198,Nov-27-21,29224.58,29224.58,SEHA,SEHA ,,missing doc,missing doc,,Y21,INC-7006,27/11/2021,,1,
+M37898,19 November 2021,26886.88,26845.761672444572,Burjeel,Burjeel,,duplicate,duplicate,1,Y21,,19 November 2021,,1,
+M23675,0000-00-00,31876.51,31876.51,SEHA,SEHA,,مرفوض,مرفوض,,Y21,,2021-11-18,,,
+M93360,Nov-19-21,,38152.67,Mediclinic,Mediclinic,B053,missing doc,,1,IN,HIGH,2021-11-19 00:00:00,,,1
+M57916,2021-11-15,4534.44,4534.44,NMC,NMC,B006,??,??,x,IN,,Nov-15-21,,x,
+M65469,Nov-19-21,,1200.403792472295,Cleveland Clinic,Cleveland Clinic,B013,missing doc,missing doc,x,Y21,HIGH,19/11/2021,,,
+M40936,2021-11-24 00:00:00,34264.12,34264.12,Burjeel,Burjeel,B115,ok,,,Y21,,2021-11-24,,1,x
+M90008,2021-11-04,25442.83,,Mediclinic,Mediclinic,B084,,مرفوض,,Y21,INC-2172,2021-11-04,,,
+M46243,2021-11-14,3106.45,"3,106.45",NMC ,NMC,B016,ok,ok,,,INC-9035,14 November 2021,,1,
+M37578,2021-11-01 00:00:00,15649.03913819829,15465.58,Mediclinic,Mediclinic,B052,,,,,,01 November 2021,,x,
+M29069,2021-11-12,15623.55,15623.55,Burjeel,Burjeel,B021,duplicate,duplicate,,Y21,,2021-11-12,,,
+M33255,27 November 2021,34481.76678154715,34354.48097650279,Cleveland Clinic,Cleveland Clinic,,missing doc,missing doc,,,,27/11/2021,,,
+M27151,0000-00-00,17645.64,17507.60976674763,Aster,Aster,B079,ok,ok,1,Y21,LOW,14/11/2021,1,1,
+M26050,2021-11-07,(46444.88),46382.75,SEHA,SEHA,,مرفوض,,,Y21,LOW,32/13/2023,,,
+,2021-11-10,,48296.77,Mediclinic,Mediclinic,B002,missing doc,missing doc,,Y21,LOW,10/11/2021,,1,1
+M22303,2021-11-23,20402.98778346532,20316.28,SEHA,SEHA,B055,missing doc,missing doc,,Y21,,Nov-23-21,,,1
+M36327,2021-11-01,42307.70589601911,"42,438.21",Mediclinic ,Mediclinic ,,مرفوض,مرفوض,1,Y21,,Nov-01-21,,,
+M64952,2021-11-20,(22644.40),22644.4,SEHA,SEHA,B048,مرفوض,,,IN,,Nov-20-21,,,
+M84786,02 November 2021,(45049.38),45049.38,Mediclinic,Mediclinic,B009,ok,,,IN,,Nov-02-21,,,
+M72835,Nov-23-21,38930.27,38930.27,Cleveland Clinic,Cleveland Clinic,B113,ok,ok,,Y21,,23/11/2021,1,,
+m-66047,2021-11-07 00:00:00,4849.96,4974.169609806629,NMC ,NMC,B073,,,,Y21,INC-5306,2021-11-07,,,
+M19231,16 November 2021,6376.41,(6376.41),Burjeel,Burjeel,B115,duplicate,duplicate,,Y21,HIGH,2021-11-16 00:00:00,,,
+M51387,05 November 2021,(1353.13),1537.642403234892,Burjeel,Burjeel,B120,missing doc,missing doc,,Y21,LOW,Nov-05-21,,,
+M83268,28/11/2021,5386.66,,SEHA,SEHA ,,missing doc,,x,,,2021-11-28 00:00:00,,,
+M13412,Nov-26-21,,(29085.70),Mediclinic ,Mediclinic,B116,duplicate,duplicate,,,MED,Nov-26-21,1,1,1
+,12 November 2021,"13,786.11",,Burjeel,Burjeel,B080,ok,ok,,Y21,,Nov-12-21,1,,1

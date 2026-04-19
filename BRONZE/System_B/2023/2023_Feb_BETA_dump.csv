@@ -1,0 +1,223 @@
+﻿policy-id, enrollee_key  , service_date  , claim_amt   (v2),CLAIM AMOUNT,Provider, Approved?  ,Unnamed: 0, extra_notes  ,REVIEW_NOTES,,year_added_2023,new_col_202302, Batch  ,mystery_2023_02_78,mystery_2023_02_59,mystery_2023_02_3,mystery_2023_02_60
+P208843,M75304,,,35578.33,Aster ,Aster,,ok,ok,,Y23,LOW,B113,,,,
+P345674,M94638,Feb-01-23,,5878.18,,,x,ok,,,,MED,,,1,,
+P119461,M61409,0000-00-00,,"32,960.09",Cleveland Clinic,Cleveland Clinic,x,ok,ok,,Y23,,B026,1,,,
+P917679,M55870,2023-02-15,,41093.8087379533,Aster,Aster,,duplicate,,,Y23,,B052,1,,,
+P960497,m-72236,Feb-12-23,junkflag,6101.79,Burjeel,Burjeel,,,missing doc,,Y23,INC-8558,B007,,,1,1
+P613610,M52978,11 February 2023,,48207.02510302811,NMC,NMC,,,ok,,Y23,,B078,,,1,
+,M54444,2023-02-25,,(607.82),NMC,NMC,,missing doc,missing doc,,Y23,INC-5516,B004,1,,1,
+P711585,M83087,06/02/2023,,47898.76,Mediclinic,Mediclinic,1,,,,IN,LOW,,,,,
+P682380,M85709,Feb-10-23,,(188.42),Cleveland Clinic,Cleveland Clinic,1,missing doc,missing doc,,,INC-4509,B102,1,,x,1
+P552315,M92105,2023-02-08 00:00:00,,(14469.81),Aster,Aster,,duplicate,duplicate,,Y23,INC-1478,B108,,1,,
+P431466,m-66657,11 February 2023,,44859.32,Aster,Aster,,missing doc,missing doc,,Y23,INC-2093,,,x,1,x
+P815246,M76931,25/02/2023,,45110.55,Aster,Aster,,missing doc,missing doc,,,MED,B077,x,,,1
+P730609,M87743,Feb-27-23,,42289.404162179606,Mediclinic,Mediclinic,,ok,,,Y23,,B071,,1,,
+P971048,M95333,Feb-11-23,,14367.8,SEHA,SEHA,,ok,ok,,Y23,INC-6078,B116,x,,,
+P927204,M56512,17/02/2023,junkflag,37053.58,Aster,Aster,1,,,,IN,,,,,,
+P410345,M94642,21/02/2023,,28306.15,Aster,Aster,,,,,Y23,INC-6798,B057,,,1,
+P134712,M35163,2023-02-16 00:00:00,,,NMC,NMC,,,,,Y23,LOW,B085,,x,1,1
+P220947,M39212,Feb-01-23,,1092.8,,,,missing doc,missing doc,,IN,INC-9559,B024,,,,
+P583164,M39613,12 February 2023,,18487.8,Cleveland Clinic,Cleveland Clinic,1,??,??,,Y23,,,x,,1,
+P838060,M50939,12/02/2023,,18519.99390240676,SEHA,SEHA,,ok,ok,,,HIGH,B003,1,,,
+,M71352,2023-02-02,,18949.6899278799,Mediclinic,Mediclinic,1,missing doc,missing doc,,,LOW,B001,,x,,
+P546999,M53220,Feb-26-23,junkflag,41043.53048214417,SEHA,SEHA,,,,,,,,,,1,
+P221785,M15179,32/13/2023,,"42,691.58",SEHA,SEHA,,missing doc,missing doc,,Y23,,B102,,,,
+P996876,M50256,2023-02-11,,20593.11,Aster,Aster,,,,,Y23,,B065,,,,x
+P382686,M52769,Feb-23-23,,327.32,Aster,Aster,,,ok,,Y23,INC-8480,B095,,1,,1
+P932747,M99336,05 February 2023,,"34,949.25",NMC,NMC,1,missing doc,missing doc,,Y23,INC-7230,B063,1,,x,
+P996300,M24243,2023-02-02 00:00:00,,5025.56,Aster,Aster,,مرفوض,,,IN,,,,,,1
+,M49280,2023-02-23,,35890.08,Cleveland Clinic,Cleveland Clinic,,ok,ok,,Y23,HIGH,,,,1,
+,M88953,18 February 2023,,,SEHA,SEHA,,missing doc,missing doc,,,,B018,,1,x,x
+,m-57234,17/02/2023,,(39801.58),NMC,NMC,x,مرفوض,مرفوض,,Y23,,B110,,,1,x
+P559159,M46833,32/13/2023,,1357.73,Burjeel,Burjeel,,duplicate,,,Y23,INC-2358,,,,,x
+P731374,,,,5467.99,Aster,Aster,,,,,,,B016,,,,
+P145774,M43812,Feb-14-23,,49684.593998936834,Burjeel,Burjeel,,duplicate,duplicate,,IN,,B015,,,x,
+P399015,M71012,2023-02-19 00:00:00,,not available,SEHA,SEHA,,,,,,,B101,,,,
+,M25476,2023-02-09,,not available,NMC,NMC,1,مرفوض,مرفوض,,,HIGH,B107,1,,,
+P135139,,08/02/2023,,32199.38194103909,Aster,Aster,1,مرفوض,مرفوض,,,INC-1346,B019,1,,,
+P696395,M82505,03 February 2023,,"48,019.83",,,1,مرفوض,مرفوض,,IN,INC-3005,B010,,,,
+P377106,M38732,2023-02-13 00:00:00,,,Cleveland Clinic,Cleveland Clinic,,ok,ok,,Y23,INC-1646,B099,x,x,1,
+P356759,M52203,2023-02-13,,"14,795.72",SEHA,SEHA ,1,مرفوض,مرفوض,,,INC-2805,B116,,1,,
+P186970,M84382,Feb-07-23,,33794.52,,,1,missing doc,missing doc,,Y23,INC-8347,B059,,,,1
+P329567,M94447,27 February 2023,,43162.82268110713,Cleveland Clinic,Cleveland Clinic,,duplicate,duplicate,,,,B098,,,,1
+P945830,M74030,14 February 2023,,,Burjeel,Burjeel,,missing doc,missing doc,junkflag,Y23,,,,,,
+P334340,M35284,Feb-01-23,,30716.42,Aster,Aster,,missing doc,missing doc,,,,B045,,1,1,
+P706408,M37894,2023-02-28 00:00:00,,(18425.28),NMC,NMC,x,,,,Y23,INC-7004,B023,,,,x
+P877868,M35450,2023-02-09 00:00:00,,"4,268.62",Mediclinic,Mediclinic,,,duplicate,,,,B101,1,x,,
+,m-16900,2023-02-25,,(17197.05),Mediclinic ,Mediclinic,,,missing doc,,Y23,INC-7988,B036,1,,x,
+,M12462,2023-02-01 00:00:00,,47635.24,,,,مرفوض,مرفوض,,,INC-6895,B095,,,1,
+P118449,M13128,Feb-08-23,,45007.34,,,1,duplicate,duplicate,junkflag,,INC-2183,B090,,,x,1
+P333691,M86653,2023-02-03,,,,,1,ok,ok,,IN,,B015,,x,,
+,M18381,23/02/2023,,35030.59,Cleveland Clinic,Cleveland Clinic,x,,ok,junkflag,Y23,INC-8873,,1,,1,
+,M89988,Feb-25-23,,"28,080.16",Mediclinic,Mediclinic,x,مرفوض,مرفوض,,Y23,HIGH,B052,,,,
+P102949,M25630,2023-02-13 00:00:00,,42425.7,SEHA,SEHA,1,missing doc,missing doc,junkflag,Y23,MED,B041,,,1,
+,,2023-02-20 00:00:00,junkflag,46674.92,Mediclinic,Mediclinic,,ok,ok,,,,,,,1,1
+P219058,m-74690,Feb-05-23,,19271.36,Cleveland Clinic,Cleveland Clinic,,ok,ok,,Y23,INC-1869,B042,1,,,1
+P204780,M40226,08/02/2023,,,,,1,,ok,,Y23,INC-8053,B104,x,,,
+P797448,M74733,Feb-01-23,,12523.73938119762,,,,ok,ok,,Y23,INC-4758,B065,,,1,1
+P599601,M36822,10/02/2023,,46818.23,Burjeel,Burjeel,,,,,IN,,,,,,1
+P683017,M85504,15/02/2023,,19536.58,Mediclinic,Mediclinic,1,,missing doc,,Y23,,,,,1,
+,M75320,2023-02-23,,39392.93,Burjeel,Burjeel,,missing doc,missing doc,,Y23,,B045,,1,,
+,M18206,32/13/2023,junkflag,12167.34820198857,,,,missing doc,missing doc,,,,,x,,,1
+,M24749,2023-02-19,junkflag,48495.16,Cleveland Clinic,Cleveland Clinic,,مرفوض,,,Y23,,,,,,
+P990558,M20528,03/02/2023,,"34,248.97",Burjeel,Burjeel,,duplicate,duplicate,,Y23,,,,,1,1
+P755994,M82763,24/02/2023,,4109.38,NMC,NMC,1,missing doc,missing doc,,Y23,HIGH,B084,,,,
+P687939,M61229,19 February 2023,,45644.47413260232,Aster,Aster,,duplicate,duplicate,,IN,INC-1876,B108,,,,
+P298131,M54497,32/13/2023,,13659.19157179147,NMC,NMC ,,,,,IN,,B006,,,,1
+P500590,M57275,,,30381.2,NMC,NMC,,,,,Y23,,B001,,,,
+P108871,M45454,2023-02-12,,26048.55116969036,Burjeel,Burjeel,,duplicate,,,Y23,,B043,,1,,1
+P547420,M43696,2023-02-15,,34805.1,Aster,Aster,1,ok,ok,junkflag,Y23,,B115,,,,
+P850910,M12665,2023-02-05,junkflag,,Mediclinic,Mediclinic,,مرفوض,مرفوض,,IN,,,,,x,x
+P890136,M39464,15/02/2023,,37944.7232025698,Cleveland Clinic,Cleveland Clinic,,ok,ok,,IN,,,,,,x
+P902186,m-32786,2023-02-23 00:00:00,,4532.07,Aster,Aster,x,مرفوض,مرفوض,,IN,INC-4489,B007,,1,x,1
+P502511,M38467,26/02/2023,,37831.21366639347,,,,ok,ok,,Y23,,B091,1,,,
+P316055,M88716,Feb-03-23,,48890.71700019639,SEHA,SEHA,,,,,,LOW,B029,,,,x
+P643240,M94675,Feb-13-23,,1856.171028193757,Mediclinic,Mediclinic,1,,ok,,Y23,INC-7872,B004,,1,x,
+P591340,M80590,09 February 2023,,12144.21,Burjeel,Burjeel,x,مرفوض,مرفوض,,,,B056,,,,
+,M59831,12/02/2023,,15089.02,Burjeel,Burjeel,1,ok,ok,,Y23,MED,B021,,,,
+P651184,M33924,Feb-06-23,,(43414.91),NMC,NMC ,,مرفوض,مرفوض,,Y23,,B060,,,1,1
+P111707,M66938,0000-00-00,,,SEHA,SEHA,,,ok,,IN,LOW,B120,,,,
+P755548,m-2114,32/13/2023,,(43225.10),SEHA,SEHA,1,missing doc,missing doc,,,,B076,1,,,
+P455530,M35237,2023-02-14 00:00:00,,37773.53468054711,Burjeel,Burjeel,,,,,Y23,,B034,,,x,
+P316655,M98110,0000-00-00,,18751.1,SEHA,SEHA,,missing doc,missing doc,,Y23,,,,,,
+P184996,M72441,2023-02-10 00:00:00,,48393.30404538623,Cleveland Clinic ,Cleveland Clinic ,1,,,,Y23,,,1,1,,
+P156929,M80472,2023-02-10,,6775.02,NMC,NMC,,missing doc,missing doc,,IN,MED,B045,,,,
+P617560,M47284,18/02/2023,junkflag,16932.38,Burjeel,Burjeel,,,,,IN,MED,B062,1,,1,x
+P979843,M42363,07/02/2023,,15588.99,Mediclinic,Mediclinic,,,,,,,B119,,1,,
+P836264,m-60793,26 February 2023,,25068.03,Burjeel,Burjeel,,duplicate,duplicate,,,INC-6067,B066,,,,
+P948932,M22852,08/02/2023,,20427.85,Burjeel ,Burjeel,x,ok,ok,,,,B091,1,,x,
+P300376,M85691,2023-02-16,,17006.91,Cleveland Clinic,Cleveland Clinic,,ok,ok,,Y23,INC-2215,B007,,,,
+P258341,M32477,2023-02-07 00:00:00,,25575.43307094156,SEHA,SEHA,,,,,Y23,,B111,,,,
+P873955,M86397,32/13/2023,,,Burjeel,Burjeel,,missing doc,missing doc,,Y23,HIGH,B072,1,,,
+P246487,M73378,28/02/2023,,49096.14,Mediclinic,Mediclinic,1,ok,ok,,Y23,,B063,,1,,1
+P646935,m-83373,Feb-15-23,,17222.67745610685,SEHA,SEHA,,ok,ok,,,INC-8766,B062,,1,,
+P835879,M40108,2023-02-08,,,Mediclinic,Mediclinic,,duplicate,duplicate,,Y23,,B061,,1,,
+P602536,M73497,,,31400.94,SEHA,SEHA,,,ok,junkflag,IN,,B036,,,,
+,M45186,16/02/2023,,45869.52,Cleveland Clinic,Cleveland Clinic,,,,junkflag,Y23,INC-9657,B060,,,,
+P859192,M29586,23 February 2023,,14442.09,Cleveland Clinic,Cleveland Clinic ,1,ok,ok,,Y23,,B078,x,x,,1
+P884002,M24094,2023-02-12 00:00:00,,,Cleveland Clinic,Cleveland Clinic,,,,,,LOW,B057,1,1,,
+,M21310,2023-02-03,,35523.84,Burjeel,Burjeel,,ok,ok,,Y23,LOW,B096,,,1,
+P174485,M71960,2023-02-25,,6296.12,Cleveland Clinic,Cleveland Clinic,,,,,Y23,INC-4631,B070,,,,
+P487775,M11899,2023-02-06,,27909.26,Mediclinic,Mediclinic,,duplicate,duplicate,,IN,,B054,,,,
+P957695,m-6337,2023-02-16,,27949.23559654802,Burjeel,Burjeel,,مرفوض,مرفوض,,,,B115,1,1,1,1
+P147832,m-12983,Feb-21-23,,37009.61,Aster,Aster,,ok,,,Y23,MED,B003,,,,1
+P240689,M17212,28/02/2023,,"41,622.22",,,,ok,ok,,Y23,INC-2438,B111,,,,
+P778982,M95262,2023-02-19,,"22,970.40",Cleveland Clinic,Cleveland Clinic,1,ok,ok,,,,B002,,1,,1
+P156834,M73772,Feb-13-23,,37502.86,Cleveland Clinic,Cleveland Clinic,1,duplicate,duplicate,,IN,,B036,1,,,
+,M13360,2023-02-26,,33030.78382760775,,,,مرفوض,مرفوض,,,LOW,B061,,,,
+P512687,M88567,2023-02-26,,45512.97,SEHA,SEHA,1,??,??,,Y23,INC-8120,B118,x,,,
+P266924,M36229,Feb-18-23,,30949.77,Mediclinic,Mediclinic,,,,junkflag,IN,LOW,B041,x,1,,
+P922922,M54775,18/02/2023,,45291.29470654241,Aster ,Aster,,,,,IN,,,,,,
+P841935,M89658,17 February 2023,,,Burjeel,Burjeel,1,ok,ok,,,,B014,,,1,
+--- HEADER REPEATED BELOW (PAGINATION) ---,,,,,,,,,,,,,,,,,
+policy-id, enrollee_key  , service_date  , claim_amt   (v2),CLAIM AMOUNT,Provider, Approved?  ,Unnamed: 0, extra_notes  ,REVIEW_NOTES,,year_added_2023,new_col_202302, Batch  ,mystery_2023_02_78,mystery_2023_02_59,mystery_2023_02_3,mystery_2023_02_60
+P547825,M26857,Feb-13-23,,"28,912.57",SEHA,SEHA,1,,missing doc,,Y23,,,,,,1
+P148640,m-97311,32/13/2023,,"44,134.44",Mediclinic,Mediclinic ,,,,,,HIGH,B110,,,x,
+P614604,M92167,Feb-03-23,,46512.13505352463,,,,,,,Y23,MED,B106,,x,,
+P541622,M26532,2023-02-06 00:00:00,,24694.81,NMC,NMC,1,,,,,INC-6412,B009,,1,1,
+P697542,m-91306,2023-02-22,,26101.45,Burjeel,Burjeel,,missing doc,missing doc,,IN,INC-8717,,,,,x
+P707698,M36865,0000-00-00,,29765.65,Mediclinic,Mediclinic,1,missing doc,missing doc,,Y23,MED,B015,,1,,
+P501403,,32/13/2023,junkflag,,,,,missing doc,,,,INC-6551,B048,,1,1,
+P415945,M71520,2023-02-26 00:00:00,junkflag,23124.453755182953,Aster,Aster,,مرفوض,مرفوض,,,INC-3034,,,1,,
+P936585,M48314,Feb-21-23,,27152.05,,,,,,,Y23,,,,x,,
+,M59637,2023-02-12,,,,,,ok,,,IN,HIGH,B091,,,,
+P231646,M60989,32/13/2023,,41633.6,Cleveland Clinic,Cleveland Clinic,,duplicate,,,IN,,B057,,,,
+P271848,M96751,32/13/2023,,40325.5,NMC,NMC,1,missing doc,missing doc,,IN,INC-3793,B032,,,,
+P783621,M68080,2023-02-27,,,SEHA,SEHA,x,,,,Y23,,B089,,,,
+P470630,M70727,,,24402.458073838563,NMC,NMC,,missing doc,missing doc,,IN,,B034,,,,x
+P403154,m-68611,2023-02-20,,,NMC,NMC,1,missing doc,missing doc,,Y23,HIGH,,,,,
+P525396,M66615,03/02/2023,,13287.81,Cleveland Clinic,Cleveland Clinic,,,,,Y23,,,1,1,,
+P448745,M68060,32/13/2023,junkflag,49824.99,Aster,Aster,,duplicate,duplicate,junkflag,Y23,,B059,1,,,
+,m-45225,2023-02-11,,13258.31,SEHA,SEHA,,ok,ok,,IN,INC-7557,B020,1,,1,x
+P964465,M26260,2023-02-06,,13463.36852417252,SEHA,SEHA,,duplicate,,junkflag,Y23,,B088,,,,
+P708474,M50175,24 February 2023,junkflag,42113.72,,,1,,,,Y23,,B120,x,,,1
+P939264,M37697,2023-02-13,,29683.604906470162,NMC,NMC,1,,,,Y23,LOW,B108,,,,x
+P595390,M79654,Feb-27-23,,16388.1,Burjeel ,Burjeel,,,,,Y23,INC-8087,B016,,,,
+P329700,M52286,0000-00-00,,46063.08,SEHA,SEHA,1,missing doc,missing doc,,Y23,,B033,,,,1
+P562035,m-54553,0000-00-00,,28933.25376634036,Aster,Aster,,ok,ok,,Y23,INC-5607,B034,1,,,
+P892775,M31132,12/02/2023,,13469.39,NMC,NMC,,??,,,Y23,,B051,1,1,,
+P657878,M78860,Feb-21-23,,44717.47,,,,duplicate,duplicate,,Y23,LOW,B084,1,,,1
+P207739,M16136,2023-02-14 00:00:00,junkflag,not available,NMC,NMC,x,missing doc,missing doc,junkflag,IN,,B105,x,,,
+P584538,M40997,25 February 2023,,23947.44,Burjeel,Burjeel,1,missing doc,missing doc,junkflag,,,B021,,1,x,x
+P935546,M30084,26/02/2023,,13962.52588884646,Mediclinic,Mediclinic,,ok,ok,,Y23,,,1,,1,
+P607191,M67644,2023-02-04,,38239.67,Cleveland Clinic,Cleveland Clinic,,,,,IN,,B102,1,,,1
+,M49175,2023-02-08,,"27,495.28",Mediclinic,Mediclinic,,??,??,,,,B006,,,,
+P445260,M72114,2023-02-09,,37247.75,,,,مرفوض,مرفوض,,Y23,,B083,1,,1,1
+P151873,M74144,07 February 2023,junkflag,39031.18,Aster,Aster,,missing doc,missing doc,,,,,,,,1
+P444259,M56410,0000-00-00,,3471.59,NMC,NMC,1,missing doc,missing doc,,Y23,HIGH,,1,,,
+P937327,m-41514,Feb-14-23,,38313.08,,,,ok,ok,junkflag,,HIGH,B054,,,1,
+P953453,M19017,0000-00-00,,(20032.61),Cleveland Clinic,Cleveland Clinic,,ok,ok,,,HIGH,B090,,,1,
+P795482,M62674,2023-02-01 00:00:00,,(1001.20),Burjeel,Burjeel,,,??,,,INC-2688,B111,,,,
+P100903,M56285,2023-02-21 00:00:00,,not available,,,1,مرفوض,مرفوض,,IN,,B042,x,,,1
+P960253,M49972,17 February 2023,,"16,475.36",Cleveland Clinic,Cleveland Clinic,,ok,,,IN,INC-6972,B084,,,,1
+,M73909,12 February 2023,junkflag,36884.14,Aster,Aster,x,ok,ok,,Y23,,B071,x,,,
+P760260,M77388,2023-02-21,,32338.812883312086,,,,duplicate,,,Y23,MED,B090,,,,
+P648822,M51371,13/02/2023,,,NMC,NMC,,ok,ok,junkflag,IN,,B011,x,,,
+P969199,M74903,2023-02-12,,"39,316.23",,,x,مرفوض,مرفوض,,IN,MED,B033,,,1,
+P891247,M26118,2023-02-27 00:00:00,,45627.90414326856,NMC,NMC,x,,,,Y23,,B039,,,,
+P928384,M10485,Feb-12-23,,,Cleveland Clinic,Cleveland Clinic,,,,,,LOW,,,,,x
+P352728,M73324,2023-02-15,,11849.81,Cleveland Clinic ,Cleveland Clinic,,ok,,,,INC-3963,B046,x,,x,
+P148050,M18977,04/02/2023,,28546.11976247791,Aster,Aster,x,missing doc,missing doc,junkflag,Y23,INC-5491,,x,,,
+,M68586,2023-02-23,,33280.86788277556,SEHA,SEHA,,,,,Y23,LOW,,,x,,
+P143088,M63415,2023-02-27,,49908.51,SEHA,SEHA,,duplicate,duplicate,,,,B053,,x,,x
+P698781,M38125,2023-02-17,,39467.25342422437,Burjeel,Burjeel,,duplicate,duplicate,,Y23,INC-9119,,x,x,x,
+P963489,M42175,2023-02-27 00:00:00,,"19,251.44",Cleveland Clinic,Cleveland Clinic,,duplicate,duplicate,,Y23,,B017,,,x,
+P131559,M29971,Feb-10-23,,,,,1,missing doc,missing doc,,,INC-7811,B074,1,1,,
+,M89525,05/02/2023,,25598,SEHA,SEHA,,??,??,,IN,HIGH,,,,,x
+P785652,,26 February 2023,,"1,832.45",Mediclinic,Mediclinic ,,duplicate,duplicate,,Y23,,,,,,
+,M57099,2023-02-28,,"18,630.87",NMC,NMC,,duplicate,duplicate,,IN,INC-2610,B001,,,,
+P241688,M13550,32/13/2023,,"25,020.46",,,,missing doc,missing doc,,IN,INC-7773,B043,,,,1
+P312989,M17600,Feb-02-23,,not available,Cleveland Clinic,Cleveland Clinic,,ok,ok,,Y23,INC-7083,B012,,,x,1
+P764634,m-7035,24/02/2023,,not available,Aster,Aster,,duplicate,,,,,B024,,,,1
+P568364,M16298,2023-02-19,,not available,NMC,NMC,,missing doc,missing doc,,Y23,,B115,1,x,x,
+,M80623,03/02/2023,,(20156.09),SEHA,SEHA,,,,,Y23,INC-9326,B062,x,,,
+P632335,M84053,2023-02-17,,12048.04,Aster,Aster,,duplicate,duplicate,,IN,,B108,x,,,
+,,2023-02-26,,36215.72,Aster,Aster,,ok,ok,,Y23,,B065,1,x,,
+P426862,M46096,2023-02-16,,"41,348.36",Cleveland Clinic ,Cleveland Clinic,1,,مرفوض,,Y23,,B020,,,,
+P865225,M13064,,,48217.41,Aster ,Aster,,مرفوض,مرفوض,,Y23,INC-6732,B045,,1,x,
+P256717,M82676,2023-02-23,,37005.90052621584,Burjeel,Burjeel,,ok,ok,,Y23,,,,1,1,
+P768511,M71709,Feb-21-23,,36332.54,Cleveland Clinic,Cleveland Clinic,,duplicate,duplicate,,Y23,INC-4713,B101,,x,1,1
+P303505,M98383,14/02/2023,,21538.01684008525,Burjeel,Burjeel,x,missing doc,missing doc,,IN,INC-1253,,1,,,
+P429177,M44396,22 February 2023,,43806.27,SEHA,SEHA,,ok,ok,,,LOW,B108,x,,1,x
+P965932,M77553,32/13/2023,,4375.92,,,,missing doc,missing doc,,Y23,INC-1199,B004,,,,
+P631072,M37804,04 February 2023,,(24247.12),Aster,Aster,,مرفوض,مرفوض,junkflag,Y23,INC-2510,B114,1,,1,1
+,M42506,Feb-14-23,,"21,737.85",Burjeel,Burjeel,,ok,ok,,Y23,INC-1886,B080,x,x,,1
+P475203,M80378,08 February 2023,,"34,060.40",Mediclinic ,Mediclinic,,duplicate,duplicate,,IN,INC-2889,B080,1,1,,
+P667926,M75307,Feb-15-23,,(31114.26),NMC,NMC,x,,,,IN,HIGH,B112,1,1,,x
+P388267,M99866,2023-02-13,,10549.489502569946,Mediclinic,Mediclinic,,missing doc,missing doc,junkflag,,HIGH,B098,,1,x,
+P364583,M91257,32/13/2023,junkflag,10582.79,,,,duplicate,duplicate,,,INC-3607,,1,x,,
+P726697,M35798,2023-02-03,,,NMC,NMC,1,missing doc,,,IN,LOW,B055,1,,,
+P529122,M54849,2023-02-09,,(38771.42),Mediclinic,Mediclinic,1,missing doc,missing doc,,IN,,B108,1,x,,
+P834156,M53716,Feb-22-23,,"2,086.00",,,,missing doc,missing doc,,Y23,INC-1278,B076,,1,1,1
+P637673,M28555,32/13/2023,,24730.27,Mediclinic,Mediclinic,1,missing doc,missing doc,junkflag,IN,INC-8784,B118,,,,
+P544905,M24341,2023-02-11,,34246.856545903735,,,1,missing doc,missing doc,,,INC-2926,B113,,,,
+P673153,M97896,32/13/2023,,44491.9,Burjeel,Burjeel,1,duplicate,duplicate,,Y23,,,,1,,
+P878684,M42098,Feb-18-23,,49806.4,Aster,Aster,,??,??,,,INC-7908,,x,x,,
+P173248,m-81477,25 February 2023,,,SEHA,SEHA,,,مرفوض,,IN,,B014,,,,
+P315500,M81907,,,,Mediclinic,Mediclinic,,missing doc,missing doc,junkflag,IN,,,1,,x,
+,M34756,,,15644.37,SEHA,SEHA,,ok,ok,,Y23,,B010,1,,,1
+P316747,M20818,Feb-20-23,,(39875.43),Mediclinic,Mediclinic,,,,,Y23,INC-8590,B024,x,,,
+P247105,M26500,2023-02-01 00:00:00,,17056.58,SEHA,SEHA,1,ok,ok,,IN,INC-3668,B025,,1,x,
+P838530,M21062,32/13/2023,,19459.27,Burjeel,Burjeel,,,duplicate,,Y23,INC-4294,,,,,
+P668996,M35963,23 February 2023,,13563.8,Mediclinic,Mediclinic,,,,,,INC-9808,B049,x,,1,
+P546424,M94534,2023-02-17 00:00:00,,(47047.10),SEHA,SEHA,,missing doc,missing doc,,,INC-1544,B101,1,x,,
+P447919,m-80759,08 February 2023,,(26248.66),Mediclinic,Mediclinic,,missing doc,missing doc,,Y23,,,,1,1,
+P446224,M60877,2023-02-12,,14618.24,,,,ok,ok,,Y23,INC-1951,B092,,,,
+P581896,m-95207,2023-02-26 00:00:00,,3782.17,SEHA,SEHA ,,,ok,,Y23,,B037,,,1,
+P303370,M21002,2023-02-01,,47051.03,Mediclinic,Mediclinic,,ok,ok,,Y23,,B086,x,,,
+P457241,M84546,Feb-19-23,,34843.69,Cleveland Clinic,Cleveland Clinic,,,,,,HIGH,B115,,,,
+,M82562,2023-02-09 00:00:00,,30989.74,Burjeel,Burjeel,1,مرفوض,,,IN,,B059,,,x,
+P513991,M72217,2023-02-05,,13859.82072513888,SEHA,SEHA,,missing doc,missing doc,,Y23,,B043,,,,1
+P659314,m-96605,2023-02-20,,(26892.48),, ,,,,,Y23,MED,B041,,,,
+P749615,M66327,11 February 2023,,(41547.07),,,1,missing doc,missing doc,,Y23,,,,,,
+P105827,M44120,2023-02-15,,44322.78,Burjeel,Burjeel,,,,junkflag,Y23,,B034,,,,
+P196714,m-12111,32/13/2023,,,,,,ok,ok,,IN,HIGH,B013,,,,1
+P212582,M93223,05 February 2023,,44041.17,Burjeel,Burjeel,1,ok,,,Y23,,B054,1,,1,1
+P267099,M92383,16/02/2023,,,Mediclinic,Mediclinic,,ok,,,,INC-1525,B110,x,,1,
+P848229,M36322,2023-02-03,,10521.53,SEHA,SEHA,1,,مرفوض,,Y23,INC-4040,B016,,,,
+P431574,m-81166,0000-00-00,,13057.94,Burjeel,Burjeel,,missing doc,missing doc,,Y23,,B095,1,,1,1
+P370349,M17100,2023-02-24,,not available,NMC ,NMC,,,,,,,,,x,1,
+P591934,M32689,24/02/2023,,22056.49,Aster,Aster,,,,,,,,,,,
+P112610,M23828,32/13/2023,junkflag,32093.01,Mediclinic,Mediclinic,,duplicate,duplicate,,IN,INC-2223,,x,,1,
+P848461,M85380,2023-02-28,,"39,749.80",Cleveland Clinic,Cleveland Clinic,,missing doc,missing doc,,Y23,INC-4165,,1,,,
+P562906,M46554,32/13/2023,,"48,309.82",Cleveland Clinic,Cleveland Clinic,,missing doc,missing doc,,Y23,MED,,,,,

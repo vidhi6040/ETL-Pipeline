@@ -1,0 +1,224 @@
+﻿IDs,IDs,Dates,Amounts,Amounts,Meta,Meta,Meta,Meta,Meta,Meta,Meta,Meta,Meta,Meta,Meta
+contract_id, insured_id  ,Unnamed: 0,CLAIMVALUE, claim amount  ,Hospital,Approved?,batch, INTERNAL COMMENT  ,Internal Comment,UNUSED,YEAR_ADDED_2024, new_col_202406 ,mystery_2024_06_41,mystery_2024_06_87,Unnamed: 0
+P487423,M42991,,"43,090.47",(43182.69),Mediclinic,Mediclinic,,ok,ok,,Y24,LOW,,1,
+P704501,M48669,,29708.83856464291,29541.61,Cleveland Clinic,Cleveland Clinic,,,,,IN,INC-4186,,,
+P104062,M91360,1,46301.03,46440.55036219855,Cleveland Clinic,Cleveland Clinic,,??,,,Y24,,x,,
+P746537,M77808,1,"10,265.39",,Cleveland Clinic,Cleveland Clinic,B052,مرفوض,مرفوض,1,IN,,,,x
+P765937,M81343,,,(20573.56),Burjeel,Burjeel,B104,,,,IN,LOW,1,,
+P426794,M77154,,not available,17445.8,Mediclinic,Mediclinic,B104,ok,ok,x,Y24,INC-2829,,1,
+P878908,M27688,,34012.3,34012.3,,,B019,??,??,1,IN,INC-7283,,,
+P398729,M45539,x,,36539.86,Aster,Aster,B005,,,x,,INC-9236,,,x
+P907783,,,12818.82,12818.82,Aster,Aster,B038,,مرفوض,,IN,HIGH,,,
+P336124,M36267,,"7,208.39",7116.276767833091,Aster,Aster,B119,,,,,INC-5320,,,x
+P310335,M10665,,40431.57,40431.57,Burjeel,Burjeel,B038,,duplicate,,,HIGH,,,
+P796727,m-8699,1,41996.94,41996.94,NMC,NMC,B072,duplicate,duplicate,1,,,,,1
+P198280,M45236,,17099.04,17099.04,NMC,NMC,B034,,,1,Y24,LOW,,,x
+P363929,M53664,,3401.32,3401.32,,,B020,duplicate,duplicate,,IN,,,x,
+P327553,M99716,,(21874.38),21874.38,SEHA,SEHA,B097,,,,,INC-6988,,1,
+,,,"3,388.85","3,388.85",SEHA,SEHA,B058,missing doc,missing doc,1,Y24,HIGH,,,
+P619431,M74312,,44526.4,44526.4,NMC,NMC,B040,مرفوض,مرفوض,,Y24,,,,
+P744892,M60321,,31383.57,not available,SEHA,SEHA,B117,duplicate,duplicate,1,IN,MED,,1,
+P182676,M24192,,,7201.52,Aster,Aster,B092,missing doc,missing doc,x,Y24,,,1,1
+P144420,M25668,1,36066.4,,Burjeel,Burjeel,,missing doc,,x,,,,,x
+P136353,M87882,,22092.01,,,,B111,,,,IN,INC-7377,,,
+P137911,M94842,,15206.78,15206.78,Mediclinic,Mediclinic,,,,,Y24,,1,,
+P388562,M27638,,37272.60844800044,37443.43,Burjeel,Burjeel,B001,,,,IN,MED,,1,1
+P534639,M34053,,7820.86,7820.86,NMC,NMC,B038,,مرفوض,1,IN,,x,,
+P310124,M42390,1,29069.06,29069.06,,,B023,مرفوض,مرفوض,,IN,INC-6879,,,
+P879172,M45531,,4261.8,4261.8,Burjeel,Burjeel,B031,??,??,,Y24,,1,,
+P612980,M97442,,"22,698.95",22865.43,SEHA,SEHA,B065,missing doc,missing doc,,,,,,
+P858469,,,8102.45,8102.45,Burjeel,Burjeel,,,,,Y24,INC-1507,,1,1
+,M57655,,(14738.30),14738.3,,,B029,duplicate,duplicate,,Y24,INC-5357,,x,
+P897547,M11761,,33280.97,33352.04132182739,Cleveland Clinic,Cleveland Clinic,B118,,,,Y24,,,,1
+P946690,m-16949,,"30,943.94",30943.94,Cleveland Clinic,Cleveland Clinic,,ok,ok,,IN,,x,,
+,M73452,1,39313.35,39313.35,,,B106,,duplicate,,Y24,INC-5919,,x,
+P882577,,,7162.45,7162.45,SEHA,SEHA,B095,ok,,,Y24,INC-8499,,,
+P901000,M47367,,"40,852.27",41019.55519369701,Aster,Aster,B069,,,1,Y24,MED,x,,
+P159860,,,29497.75,,Aster,Aster,B108,missing doc,missing doc,1,Y24,,,1,
+P434000,M88433,,(42131.82),(42131.82),Cleveland Clinic,Cleveland Clinic,B075,duplicate,duplicate,,Y24,,x,,
+,M97781,,5629.02,5629.02,,,B008,missing doc,missing doc,,,,,,
+P346451,,1,"15,421.11",, ,,B048,duplicate,duplicate,,,INC-1792,,1,x
+P522230,M22043,,22887.96,,Cleveland Clinic,Cleveland Clinic,B080,ok,ok,,Y24,HIGH,,,1
+,M24564,1,"37,150.27",37150.27,Burjeel,Burjeel,B043,,duplicate,,Y24,,,,
+P305201,M80471,x,13995.33,not available,Burjeel,Burjeel,B088,مرفوض,,,Y24,,,,
+P512706,M40577,,,(42268.93),Mediclinic,Mediclinic ,B102,,,,Y24,,1,,
+P111501,M39421,,"16,988.16",16952.62536502263,Aster,Aster,,مرفوض,مرفوض,,IN,LOW,,,1
+P507438,m-77668,,,42677.117952930406,Burjeel ,Burjeel,B034,,??,,,HIGH,,,
+P495573,M82641,1,12549.5,,,,,missing doc,missing doc,1,,LOW,,,1
+P223404,M96111,1,4333.75,4333.75,Cleveland Clinic,Cleveland Clinic,B060,,,,Y24,MED,1,1,
+P530309,M30554,,,21911.77,Burjeel,Burjeel,,missing doc,missing doc,x,Y24,LOW,1,,
+P894256,M67597,,29247.21,"29,247.21",,,B008,ok,ok,,IN,,,,1
+P695020,M30515,1,984.78,1039.795674104245,Burjeel,Burjeel,B038,مرفوض,مرفوض,,,INC-1067,,1,x
+P812109,M47652,x,,not available,Mediclinic,Mediclinic ,B103,,,,IN,,,,
+,,,45676.50894357033,,NMC,NMC,B032,,missing doc,,Y24,,1,,
+P899977,M68181,,,(42282.79),Aster,Aster,,,,x,,,,,
+P431413,M29050,1,17343.43,not available,Cleveland Clinic,Cleveland Clinic,,,,,IN,,,1,
+P666993,m-85974,1,44566.09,44566.09,SEHA,SEHA,B066,,,,,,,1,
+,M81345,,28836.62,28836.62,Cleveland Clinic,Cleveland Clinic,B021,ok,ok,,,,,1,1
+P919561,M33680,,"26,041.51",25888.9853639343,Cleveland Clinic,Cleveland Clinic,B115,missing doc,,,,INC-8360,1,,
+P204520,M81754,,2435.59,2435.59,,,,missing doc,missing doc,,Y24,,,x,1
+P996210,M49996,1,32985.94141041201,33088.72179177307,NMC,NMC,B088,ok,ok,x,,INC-2304,,,
+P156697,M98885,,12548.141920192702,12709.54,NMC,NMC,B063,missing doc,,,Y24,MED,,,1
+P446596,M86908,1,,16076.23,Cleveland Clinic,Cleveland Clinic,B001,,,,Y24,HIGH,,1,1
+P329392,m-26651,,35398.58242521742,(35341.64),Cleveland Clinic,Cleveland Clinic,,missing doc,missing doc,,Y24,INC-7330,,,
+P683175,M48227,1,46029.2,46029.2,,,B076,,,1,Y24,,,,
+P780262,M48635,,20113.71,,,,B065,ok,ok,1,Y24,HIGH,1,x,
+P126995,m-98120,1,40582.38741612086,not available,Cleveland Clinic,Cleveland Clinic,B025,ok,ok,1,,INC-8072,,,x
+P651257,M23072,x,11282.57065607092,11239.5,,,B012,,ok,,IN,,,,1
+P177035,M72985,,"31,012.64",,Burjeel,Burjeel,B014,ok,ok,1,IN,LOW,,,
+P957113,M73982,1,"6,682.68","6,635.96",,,B035,مرفوض,مرفوض,,Y24,,1,,1
+P482982,m-36102,1,"43,633.62",43495.07278493967,Burjeel,Burjeel,,duplicate,duplicate,1,,INC-3718,1,x,
+P897515,,,,14416.6497592119,Burjeel ,Burjeel,B037,ok,,1,IN,,1,,1
+P518677,m-58268,,43754.46,43754.46,Mediclinic,Mediclinic,B032,ok,ok,,IN,INC-5549,1,,x
+,M78932,,not available,42340.71546869896,, ,B015,ok,ok,1,,INC-4412,,,x
+P245011,M10407,,26754.22,26754.22,,,,ok,ok,1,Y24,,,,
+P810390,M72448,,"21,613.46",not available,Aster,Aster,B024,,,,,INC-9135,,,1
+P789333,m-75613,,"47,916.21",47916.21,NMC,NMC ,,,ok,,,,,,
+P586227,M50749,,,37319.59,NMC,NMC,B099,??,,,,,x,,
+P384120,M83730,,43802.5,43802.5,,,,??,,,Y24,LOW,,,
+P652091,M96761,1,"5,926.67",(5889.93),SEHA,SEHA,B068,duplicate,duplicate,,Y24,,,,
+P373799,M93540,,3249.606614318664,3316.98,Mediclinic,Mediclinic,B066,missing doc,missing doc,1,IN,INC-8863,x,,1
+P551199,M42392,1,27243.84,,Aster,Aster,B100,duplicate,duplicate,,Y24,INC-7131,,x,
+P510273,M97926,1,37063.50038071832,(36876.67),Mediclinic,Mediclinic ,B085,مرفوض,مرفوض,,Y24,HIGH,,,
+,m-20527,,45229.55,45229.55,SEHA,SEHA,B064,,,,,,,1,x
+P939458,M33909,,22043.57,,Burjeel,Burjeel,,ok,ok,x,,INC-2582,,,
+P273381,m-32586,,14940.29,14940.29,Aster,Aster ,B095,ok,,,Y24,INC-1201,1,,
+P449249,M37741,,"34,075.84",33822.09309167186,Mediclinic,Mediclinic,B024,duplicate,duplicate,,,INC-3974,,,
+P327977,M63399,,30665.87,,Aster,Aster,B106,ok,ok,1,Y24,INC-9034,,,
+,,1,,12590.65,,,B103,ok,ok,,IN,LOW,,,
+P817063,M35067,,23976.92261734361,23881.52,Aster,Aster,,,,,Y24,MED,x,1,
+P871156,M95184,1,"33,373.78",33373.78,Burjeel,Burjeel,B088,,ok,1,,,,1,
+P505428,m-97563,,"33,546.20",33546.2,Mediclinic,Mediclinic,,,,1,Y24,INC-4865,,,1
+P331555,m-4510,,47743.63,,Mediclinic,Mediclinic,B037,مرفوض,,,IN,INC-6012,x,,
+P806779,,,,45490.11288780447,,,B029,missing doc,missing doc,,IN,,,,
+P612925,M46167,,,3447.33,SEHA,SEHA,B048,missing doc,missing doc,,Y24,INC-5551,,,x
+P927728,M14186,,,,,,B005,,,,Y24,,,1,
+P826800,M98561,,22121.34,22059.94774223757,NMC ,NMC,,ok,ok,,IN,,1,,1
+P876239,M25211,,22507.55,,NMC,NMC,B007,,,,Y24,INC-5559,1,,1
+P151982,M70934,,39652.63,39652.63,SEHA,SEHA,B035,ok,ok,1,IN,LOW,,,
+P910609,M81607,,19751.49,19638.43014531358,Aster,Aster ,,duplicate,,,Y24,INC-8231,,,
+P818881,M66541,x,37000.83,37000.83,Aster,Aster,B013,مرفوض,مرفوض,,IN,,,x,
+P163894,M21258,,5634.781717819623,,Aster,Aster,,,,,Y24,INC-3776,,,
+P629341,m-34201,1,"4,506.05",(4506.05),SEHA,SEHA,B020,ok,ok,,Y24,INC-3792,1,1,
+P269651,M87175,,39250.2509690557,,NMC,NMC,B102,missing doc,missing doc,,Y24,MED,,,1
+P745684,M25030,,22278.26,22357.77832640682,,,B094,missing doc,missing doc,,Y24,,1,,
+P229287,M16855,,4036.62,4036.62,Burjeel,Burjeel,B054,,,1,IN,,1,1,1
+,M77938,,"18,396.53",18227.02175948646,Cleveland Clinic,Cleveland Clinic,B032,duplicate,duplicate,,Y24,INC-4764,1,1,
+,M39594,,15575.78,"15,575.78",NMC,NMC,B042,ok,ok,,IN,INC-5084,,,
+P886628,M49449,,9737.16,9737.16,SEHA,SEHA,B102,duplicate,,,Y24,INC-7061,,,
+P173706,M30015,1,39399.48,39347.71688925916,SEHA,SEHA,B120,missing doc,missing doc,,Y24,,,,
+,M18753,,not available,12261,Aster,Aster,B067,مرفوض,مرفوض,,IN,HIGH,,,x
+P219325,M48526,1,5461.77,5461.77,Mediclinic,Mediclinic,,duplicate,duplicate,,Y24,,,1,1
+P216216,M90956,,,,Burjeel,Burjeel,B117,ok,ok,,Y24,INC-2414,,x,
+--- HEADER REPEATED BELOW (PAGINATION) ---,,,,,,,,,,,,,,,
+contract_id, insured_id  ,Unnamed: 0,CLAIMVALUE, claim amount  ,Hospital,Approved?,batch, INTERNAL COMMENT  ,Internal Comment,UNUSED,YEAR_ADDED_2024, new_col_202406 ,mystery_2024_06_41,mystery_2024_06_87,Unnamed: 0
+P712408,M81660,,,,Cleveland Clinic,Cleveland Clinic,B002,ok,ok,,Y24,,,1,
+P881010,M20170,x,not available,44177.18,,,B100,duplicate,duplicate,,IN,,,1,
+P832814,M20030,x,49096.65,not available,SEHA,SEHA,B060,??,??,1,,INC-1499,,,
+,m-90040,,5586.32,5477.534602482145,NMC,NMC,B086,missing doc,missing doc,1,IN,INC-8755,1,x,1
+P262679,M38524,1,11524.55,,, ,B064,ok,ok,,Y24,INC-8368,x,1,
+,M79884,,44774.14,44804.71405442314,,,B054,,missing doc,,IN,INC-6583,,,
+P865471,M19435,,not available,32004.07,,,B048,,,,IN,INC-8134,,1,1
+P325385,M28688,,"12,309.38",12309.38,Aster,Aster,,ok,ok,,Y24,,,,
+P272705,M60980,,49494.33,49494.33,Mediclinic,Mediclinic,B047,duplicate,duplicate,,Y24,INC-3873,,,
+,M56297,,47622.25,47443.864987117886,Burjeel,Burjeel,,missing doc,missing doc,,Y24,MED,,1,
+P491848,M95057,,(38059.92),,Cleveland Clinic,Cleveland Clinic,B039,ok,ok,,,,,1,x
+P391656,m-59446,,,10447.85585443979,,,B120,ok,ok,,IN,MED,,,1
+P848925,M84858,,16656.270262196107,(16459.87),Mediclinic,Mediclinic,B081,missing doc,missing doc,,,,1,,
+P913327,M18721,,,"5,311.97",Cleveland Clinic,Cleveland Clinic,B112,ok,ok,,,INC-6706,x,1,
+P746115,M34303,,"1,189.68",1189.68,SEHA,SEHA,B010,missing doc,missing doc,,IN,INC-3533,1,1,1
+P459416,M41472,,"43,480.31",not available,, ,B021,duplicate,duplicate,1,Y24,INC-8031,x,1,
+P410117,M25769,,40031.91,40031.91,SEHA,SEHA,B020,,ok,,Y24,,,1,
+P209315,M83126,,"43,320.39","43,199.47",Mediclinic,Mediclinic,,missing doc,missing doc,x,IN,INC-9597,1,,
+P220808,M74392,,,46142.44,Mediclinic,Mediclinic,B006,,,1,Y24,LOW,,,
+,M89804,,11734.38,(11734.38),SEHA,SEHA,B086,ok,ok,,Y24,,,,
+P425747,M73258,,49660.99,,NMC,NMC,B112,missing doc,missing doc,x,Y24,INC-6449,,x,
+P812338,M15861,,3592.44,3592.44,NMC,NMC,B071,ok,ok,,,INC-6482,1,,
+P524408,M14079,1,42010.11,(42010.11),Burjeel,Burjeel,B005,,,1,,INC-2305,,,
+P340793,M92438,,"19,775.31",19775.31,Burjeel,Burjeel,,ok,ok,,,,,x,
+P251714,M98110,1,,8554.2,NMC,NMC,B052,missing doc,missing doc,1,Y24,INC-4869,,,x
+P424824,M23688,,7203.91,7203.91,Aster,Aster,,,,,Y24,LOW,,,x
+P219249,M34488,1,,32195.14,NMC,NMC,B059,ok,ok,,Y24,INC-2715,1,,
+P483909,,,38714.34,38714.34,SEHA,SEHA,,ok,ok,,,LOW,,x,
+P249754,M88873,,17644.5,(17644.50),Mediclinic,Mediclinic,,ok,ok,,,,,,
+P335800,M49261,,(38578.98),38557.91,SEHA,SEHA,B069,ok,ok,1,,HIGH,,,1
+P568274,M63489,,"23,874.75",(23712.29),Aster ,Aster,B046,مرفوض,مرفوض,,Y24,INC-1261,,1,1
+P529280,M56439,,15498.690794984665,(15604.61),SEHA,SEHA,B066,missing doc,missing doc,1,,HIGH,1,,
+P132253,M71268,1,5707.174021920618,"5,596.56",Cleveland Clinic,Cleveland Clinic,B017,,,,Y24,LOW,,,
+P467782,m-54638,,11712.94,,NMC,NMC,B007,,,1,,INC-6727,1,,
+P427485,M49119,,30038.1,"29,914.74",Burjeel,Burjeel ,,ok,ok,,Y24,INC-8219,,1,
+P353762,M80590,,320.71,,NMC,NMC,B094,missing doc,missing doc,,Y24,INC-7504,,,
+P854290,M99440,1,"42,501.51",42548.012665315604,NMC,NMC,B077,missing doc,missing doc,1,IN,INC-2573,1,,
+P504734,M90302,,"20,496.02",20496.02,Burjeel,Burjeel,B023,,,,IN,,,,
+P171141,M46687,,37804.93,37804.93,Burjeel,Burjeel,B042,missing doc,missing doc,,,INC-7651,1,x,
+P410127,M78843,x,"20,574.62",20574.62,,,B098,ok,,,,,,x,
+P408919,M59060,,18492.979293941582,18526.93,Burjeel,Burjeel,,,,,Y24,INC-4532,1,,
+,M48509,,14316.60575585819,14154.03,Aster,Aster,B050,missing doc,missing doc,,,,,,1
+P384703,M58750,1,"47,479.88",,Aster,Aster,B111,,,,,INC-1865,,,
+P160690,M81341,1,,21826.46,Cleveland Clinic,Cleveland Clinic ,B093,ok,ok,,,INC-6890,1,,
+P616551,M28406,,28221.84,28221.84,Burjeel,Burjeel,B082,مرفوض,مرفوض,,,,,,1
+P254170,M31642,1,17443.39,17443.39, ,,B082,??,??,,IN,,1,,
+P372094,m-46656,1,"39,513.05",39513.05,Burjeel,Burjeel,B002,ok,ok,,Y24,LOW,x,,1
+P864276,m-13402,1,12337.52,(12337.52),Burjeel,Burjeel ,B063,ok,,,Y24,HIGH,,,
+P378110,M11196,1,7869.22,7869.22,Mediclinic,Mediclinic,B110,missing doc,missing doc,,,,x,x,
+P632200,M68489,,11212.88,11212.88,SEHA,SEHA,B095,,,,IN,,1,,
+P480738,M33199,1,,,SEHA ,SEHA,,,,,IN,,,,1
+P229798,M98409,1,2235.34,,Cleveland Clinic,Cleveland Clinic,,,,,Y24,LOW,1,,
+P192520,M30021,,7605.23,7605.23,Mediclinic,Mediclinic,,ok,ok,,IN,LOW,,1,
+P166058,M39437,,11006.55,11006.55,NMC,NMC,B116,ok,ok,,Y24,MED,,1,
+P645491,,x,(30931.86),,NMC,NMC,B089,duplicate,duplicate,1,Y24,,,x,
+P238395,m-63885,,20649.59,(20486.92),SEHA,SEHA,B057,missing doc,missing doc,,IN,,1,1,
+P942729,M38134,x,(43137.80),"43,207.29",Burjeel,Burjeel,B075,,,x,Y24,INC-7132,,1,
+P185678,M81061,1,36911.650342030036,36838.735185471814,NMC,NMC,B017,ok,ok,,,MED,1,1,1
+P404503,M32294,x,,(19587.42),Aster,Aster,B027,,??,1,Y24,INC-3070,,1,
+P167759,M39000,,101.35,,Mediclinic,Mediclinic,,ok,ok,,Y24,,,x,
+P727552,M68114,1,33857.46327089274,34046.75,Aster,Aster,,ok,ok,1,Y24,,,x,
+P361324,M90725,x,,not available,NMC,NMC,B113,ok,ok,1,,INC-4862,1,,
+P584645,M19793,,not available,35537.62,SEHA,SEHA,B115,,,x,Y24,,,,
+P563853,M82728,x,3582.791636438518,not available,Mediclinic,Mediclinic,B021,مرفوض,مرفوض,1,Y24,LOW,,,
+P977616,M14767,,26305.49641623061,26273.21,Cleveland Clinic ,Cleveland Clinic,B043,duplicate,duplicate,,IN,INC-7141,1,,
+P524265,M19498,,"17,813.30",17700.92,Mediclinic,Mediclinic,B022,missing doc,missing doc,,Y24,,,,
+P549602,M16392,,25975.82,25975.82,Cleveland Clinic,Cleveland Clinic ,B016,duplicate,duplicate,1,IN,INC-2383,,,
+P223976,M62804,1,47065.43,47024.75992963917,Cleveland Clinic,Cleveland Clinic,B081,missing doc,missing doc,,IN,MED,1,1,
+P244947,M62388,1,38915.96,"38,915.96",Burjeel ,Burjeel,B001,duplicate,duplicate,,,HIGH,,1,
+P162906,m-86013,,1371.2045278023086,(1418.01),NMC,NMC,B020,,,,Y24,INC-5430,,,
+P920171,,,16808.88385692098,16902.19711947848,NMC,NMC,B074,missing doc,,,Y24,,,,
+,M85504,,14272.08,14272.08,Mediclinic,Mediclinic,,missing doc,missing doc,1,IN,HIGH,1,1,1
+P794165,M63429,,11069.71738137222,10918.1,Aster,Aster,B052,مرفوض,مرفوض,,,,,,
+P464670,M36301,,6041.33,"6,041.33",SEHA,SEHA,,missing doc,missing doc,1,,,,,
+P287858,M54179,,33779.6,(33779.60),SEHA,SEHA,,duplicate,duplicate,,IN,INC-1498,,,1
+P523148,M49243,1,12618.93,12618.93,Mediclinic,Mediclinic,B010,ok,ok,,Y24,,,,1
+P893676,M52760,,1923.993687704693,1847.45,Burjeel,Burjeel,B020,missing doc,missing doc,,Y24,INC-4408,1,,
+P307196,M57375,1,28218.57,28218.57,Cleveland Clinic ,Cleveland Clinic,B035,ok,ok,,Y24,,,1,
+P780951,M31485,1,(2121.07),2248.24,SEHA,SEHA,B072,ok,ok,1,,,,1,
+P685209,M44367,1,14385.02,,SEHA,SEHA,B119,missing doc,missing doc,,Y24,INC-9319,,1,
+P890168,M52208,1,47564.25,,Burjeel,Burjeel,B084,missing doc,missing doc,1,Y24,,,x,1
+,M92095,,40677.6463588969,40649.65242904623,Mediclinic,Mediclinic,B058,ok,ok,,Y24,INC-4823,,,
+P424335,M94457,,"48,810.67",48810.67,Mediclinic,Mediclinic,,missing doc,missing doc,1,IN,INC-1630,,,x
+P928267,M82684,,34726.21,not available,Cleveland Clinic ,Cleveland Clinic,,,missing doc,,Y24,,x,,
+P943219,M97704,,,21937.44,Burjeel,Burjeel,B003,مرفوض,مرفوض,,,INC-5656,,,
+P348876,M96250,x,,,Mediclinic,Mediclinic,B041,ok,,,Y24,,,,
+,M88743,,24471.42,24471.42,,,B092,ok,ok,,IN,MED,,,1
+P106491,M54754,x,10445.19,10383.268804324389,Burjeel,Burjeel,,,,,Y24,INC-6488,1,,1
+P401321,M29331,,"6,801.82",6801.82,Mediclinic,Mediclinic,B098,,,,IN,MED,x,1,1
+P972406,M30689,,18113.52,"18,039.68",NMC,NMC,B054,,,,Y24,,1,,x
+P793954,M13440,1,1319.55,1319.55,Burjeel,Burjeel,B039,ok,,,IN,INC-7615,,x,
+P468008,M74547,,20071.53,19895.729500637433,Burjeel,Burjeel,,,,,IN,LOW,1,,
+P707306,M45834,x,,,SEHA,SEHA,B078,,missing doc,,Y24,INC-5295,1,,1
+P246699,m-8052,,44893.12355875216,not available,Cleveland Clinic,Cleveland Clinic,,,,x,Y24,INC-8917,,,
+P776388,M17384,,5934.45,,,,B011,missing doc,missing doc,,Y24,INC-3916,,x,
+P325709,M48365,1,24263.55,,Burjeel,Burjeel,,ok,ok,,Y24,INC-1418,1,,1
+P696852,M93004,,39729.21811958631,"39,665.74",SEHA,SEHA,,??,??,1,Y24,,,,x
+P485756,m-66127,1,21424.92,21424.92, ,,B054,duplicate,duplicate,,Y24,,,,
+P405422,M84331,,(3992.40),4036.52,Cleveland Clinic,Cleveland Clinic,,ok,ok,x,IN,,x,,
+,M53692,,,not available,Aster,Aster,B065,missing doc,missing doc,1,IN,,,x,
+P193502,M18341,,39485.43,39485.43,Aster,Aster,B082,ok,ok,,IN,LOW,,,1
+P246818,M78552,,(20192.62),20192.62,Cleveland Clinic,Cleveland Clinic,,duplicate,duplicate,,IN,,,,1
+P825110,M83746,,47254.06530564435,47119.48,Mediclinic,Mediclinic,,ok,ok,x,,INC-3844,,1,1
+P719780,M54655,,"32,581.75",32535.83,,,B059,??,??,,,,,,
+,M85369,,36923.01,36923.01,,,B016,,,,,,x,,
+P295036,M48368,x,38269.79,38269.79,NMC,NMC,B077,,,,Y24,,,,
+P434993,M50420,,43097.04,"43,097.04",SEHA,SEHA,,??,??,x,,INC-8698,,,
+P691229,M47708,,38838.08,(38838.08),Mediclinic,Mediclinic,B067,ok,ok,1,,LOW,,,
+P430039,M83539,1,49207.6,49207.6,NMC,NMC,B045,,,,Y24,MED,,1,
+P800734,M35299,,6745.240459732011,"6,880.31",Mediclinic,Mediclinic,B114,ok,ok,x,IN,,,,
